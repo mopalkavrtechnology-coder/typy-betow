@@ -3,6 +3,13 @@
   "team1_name": "Niemcy",
   "team2_name": "Wybrzeże Kości Słoniowej",
   "start_time": "2026-06-20T22:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-20T19:36:17",
+      "user": "Ziggy",
+      "nonce": "iIxsbAlXWVxkg9U+3r59Pw==",
+      "ciphertext": "WUH6eZjUwjhatRHfMVf6Xi8tE8M0jiVcHTK7QjIMlmJvXvZjWpLzX72NWwqckBQ8IXCF3C+YGmjz4DpZJ14A3dO7jByu9YI9cXCvae1c3/s="
+    }
+  ],
   "key_reveal": null
 }
