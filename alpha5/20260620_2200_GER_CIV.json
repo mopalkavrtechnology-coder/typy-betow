@@ -45,6 +45,12 @@
       "user": "admin",
       "nonce": "q7k3GyyddSld2n9ae6l+PA==",
       "ciphertext": "8EHwN3MGl9T+PGucWdGpOaalR0GxK6rEg+piQipbafbSTIkqFaiR+PtnLRwcAYSwOqAC5w/cfqAxNEh0PnxHykrXEmGKnEGxleUrgaVypSI="
+    },
+    {
+      "ts": "2026-06-20T19:23:00",
+      "user": "admin",
+      "nonce": "GJyUG5LW0JbK42fp3rqimQ==",
+      "ciphertext": "gWNt0YeKabWpYbrSHZtE1Rn0g6j9UxT7oK0YZTrwMQh64Kn+aKoKdTMb+Je7vytSRB0Op7FhnoCRXktthfU+eoy/bBQ5GI+UtTP06MAhm+w="
     }
   ],
   "key_reveal": null
