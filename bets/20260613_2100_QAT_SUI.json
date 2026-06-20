@@ -1,0 +1,45 @@
+{
+  "match_id": 5,
+  "team1_name": "Katar",
+  "team2_name": "Szwajcaria",
+  "start_time": "2026-06-13T21:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin2",
+      "nonce": "QeLUKw6bvC97q8lYmvDNtw==",
+      "ciphertext": "TPe2j7EFcoYhC6wmppSVJuaLIz1K5s8XjoAEbtnz0PgUDMAlyUnG4ME2RKB0Wvz/WPmHwabAInAyo/QzytZXhEpvBwoaEQNfNqaZE0hOw5o="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "KqnMldrfADAtjX0XdeG5kw==",
+      "ciphertext": "+eQixhTx5tD1yTfZQZJuOqFpCg5kXXmqblerWRFv2F4pMq4jnKwquPHgfpRznwuWv+sIMQo7FAheCGs0s+kbTpzbdCmNNSrxWjlmwPruzQ4="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "Kura",
+      "nonce": "E7xViDc4psABl1VBK5ujZQ==",
+      "ciphertext": "L8BARxiz8QzeLmxBOMOfvwnTJgfNv2jKgwifUNVAkOf/Ivzq+1Lnkbf5qqsZ3hnOYyeCj9aoMsilIutIjDNHqBQOeQZGma7aCRqQfmKUaGI="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "43ofYmtNeKigcylVtc5tlA==",
+      "ciphertext": "Ia05UqfG49redeNbVlmu2afa5K0tNqQjlgBr5AWargOrdKFeZx+5PzjGglQ9G8adGN7ibDJOXp5NLQ2Idj/tJg=="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "7Np1nXpOdn5zuqUmxFtVTw==",
+      "ciphertext": "5syJfyIDb8TZxtnYBWcRmLDCBZkEhIHefG4g9kFMGRlbZuxEIAszBBPfRulghnGwib93zSDutmaGWzcx/ZTzjPlwrBbsWuCpoEfk99nH6eE="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "visitor",
+      "nonce": "AOjgxntZhGDTSuqSWNhckg==",
+      "ciphertext": "sOP1N1uozNzr9NZJQ225d7DPVYHv06Lo2T0vIS+/BPu46bSRZkNTdEFyXRE+FTUcOsVK6ZZTJkRcd9UoW8zzn4PNuQJkaCP0nvfh695YzIU="
+    }
+  ],
+  "key_reveal": null
+}
