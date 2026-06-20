@@ -1,0 +1,27 @@
+{
+  "match_id": 33,
+  "team1_name": "Holandia",
+  "team2_name": "Szwecja",
+  "start_time": "2026-06-20T15:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T09:00:57",
+      "user": "admin",
+      "nonce": "9kakOYim92Nh8EfJhi3Trg==",
+      "ciphertext": "HFdxkylSgpFLAMC8ytcSt5ewKBvXwE8BZ2iTAVwgVP9wKz8/9UTdzc1GCXPo2AjKEWTj2s1HzzyTMyyPiJ7fng=="
+    },
+    {
+      "ts": "2026-06-20T12:13:34",
+      "user": "admin",
+      "nonce": "qvxEoEar0ZcAkrcXtSFJrg==",
+      "ciphertext": "ey70Nnh44eDRPzYo5NV1hVAPJqv5SppuBIdyOv0M7U201w3Mm8PYiS8YrPODpVOKZ3P7AcfmBZgUuNxqHelynA=="
+    },
+    {
+      "ts": "2026-06-20T13:15:52",
+      "user": "admin",
+      "nonce": "SLevq4qyIkfn0F+tj9zbww==",
+      "ciphertext": "58thsHWV2HWz/pma09brwswtEU4vyklHU+sIhNsxG5QHR7E5HT0InN/tP2YMK6MhIcXy7jDQ9z/nkD8iWWaLnw=="
+    }
+  ],
+  "key_reveal": null
+}
