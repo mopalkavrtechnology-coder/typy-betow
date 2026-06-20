@@ -1,0 +1,51 @@
+{
+  "match_id": 4,
+  "team1_name": "USA",
+  "team2_name": "Paragwaj",
+  "start_time": "2026-06-13T03:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin2",
+      "nonce": "0vFKTTgfQmYw0uBN/ZhPMw==",
+      "ciphertext": "ZSlP3p6JEURJ2kQOHkvpQLgM8LGGjVCiVUc8l4OSbgYSMGLkt2vzGKwYIBtSmVWUbLkTliJp0GTjYP8Rfmhi7XI8Uf/TqcK+6x03fyvrD8E="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "Si68eM7ttEts3NIZgLkeiA==",
+      "ciphertext": "jpYozOlatAUAsgz2zGEmbUEutrn5v1rJBnT0bbVuhP0QL+5ikRpshwVWIJ7332UtQt0POwCqXadlMHIXxo+kQRk1hoYGBSJcGQFkP4jxzlw="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "Kura",
+      "nonce": "dF6NMrfqhAb560MwO1e33A==",
+      "ciphertext": "3Gyy210a6ABqghBF54WpBQiiLVnLaKpxG3Rf/0JZXep0VC5rwfCf/S9R1psP3QoR9SIcFuAPU/VEOTpjxOffVMkdvqjxr7cwWccwcK3rI68="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "pokea",
+      "nonce": "eKgc7Qm3sSOExFN2vLS+ig==",
+      "ciphertext": "Eq1HFYJD0ufG4+10/o9t2fj39OwhlKnhk1qQ/r50wlg/am6YdHXnpZqe28hgePybS/rErUhxW43ymE7vA9na0LlWS3OfwVT0k0YVYojNWPI="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "z/X/obwNqXNviIN5FdQf4w==",
+      "ciphertext": "c1gEBDFboRTHXLTsBXqbSQKGFZkllCbrDxR1AkXOoSURYxMGOB+OT/J4eXI1QQG6q56EOO4L1Fw9dJqafLa9EQ=="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "EFLCIQEKLdkmPoWPXPr7MA==",
+      "ciphertext": "bmpaGJe4ap6pGvqidZBM1CzgxsW5P4KVNO+eRGEbJWqUlt+2ZoFYh56DXj2viczUJrBKh2xbXeZWEnyzj05jeXNyuXDQpbTvMyemdK6GtFA="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "visitor",
+      "nonce": "fQPECkzIxSI6xRwi4t/z4Q==",
+      "ciphertext": "GBGeOZTLgDeUNgztpvR4pMUNHEfdjv8SU0RzzScsil15PWHJ4EfgXsWi9j4izA1QjQ8l9LMaOOOmsCTgGd10Nzg0pGPR/nPx0a14mge+RqQ="
+    }
+  ],
+  "key_reveal": null
+}
