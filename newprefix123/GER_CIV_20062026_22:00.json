@@ -15,12 +15,6 @@
       "user": "admin",
       "nonce": "bhniVqjYh+9WolazZLCSwA==",
       "ciphertext": "uPLtW1kd6DhmddYCEv2h2y8Mk59itsfZUKXto44Z28jEH73lfTiD8ivYiabGicRJ9aI9TRJYEh3JnN7ZNZp/FQ=="
-    },
-    {
-      "ts": "2026-06-20T14:52:39",
-      "user": "user1",
-      "nonce": "LAyoS/dmKvBHJD5tuWpWnA==",
-      "ciphertext": "gLhAYsXJIOJCopv5HgWSblah9Dj69fLZ2jaMNYhwOTWquVyU3P5AOc9bOQxA4t0z0wetyN4qvhwYqQ3bJNMhfn7pmX2dchqLOXvU3sZhfgY="
     }
   ],
   "key_reveal": null
