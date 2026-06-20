@@ -9,6 +9,12 @@
       "user": "Ziggy",
       "nonce": "M/2OUmfOKN8c+xHquXqNUw==",
       "ciphertext": "ZRwLS+2aHPPKrfb9O+3soqOqiKXyraUAZRV7QgMsL+znSNvmalgNYB0WXPTfYp/tf/IOD8Gq+oZ99biJylO4QWoZJpUm1WhHWUcSN7fVK1A="
+    },
+    {
+      "ts": "2026-06-20T23:25:13",
+      "user": "fizuu",
+      "nonce": "rIoXf7olrKwTkUD9XFyEnw==",
+      "ciphertext": "sN0lWdTka6x1XvJToh0fVqRztFQyA6qaMVdb1rHVPYyhhI/QsWyvQ/AkuEaQ1GpS+5wkIuXpdZdcJX6Cdqwcb0tUUTxJEBMhecQTGAEWivA="
     }
   ],
   "key_reveal": null
