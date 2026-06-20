@@ -1,0 +1,15 @@
+{
+  "match_id": 16,
+  "team1_name": "Iran",
+  "team2_name": "Nowa Zelandia",
+  "start_time": "2026-06-16T03:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "L+FR3GwsNKVh8gGm20nl2w==",
+      "ciphertext": "AUwt3S7RvpiKclO9ftekZSoX/59vrZNoc30xK78DUWX1iiIzv/vPTKtAK1q2I7SUijCZBUVQFklQl/l26A1cqpzbxBmsfqfYGMip8Ob2or4="
+    }
+  ],
+  "key_reveal": null
+}
