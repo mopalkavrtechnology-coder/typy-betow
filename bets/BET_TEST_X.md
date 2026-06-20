@@ -9,4 +9,5 @@ Każdy wiersz poniżej to zaszyfrowany typ wpisany przed startem meczu. Klucz od
 ```ndjson
 {"ts":"2026-06-19T23:48:11.021110","user":"admin","nonce":"fyDZ7T+9Wk8fjuJzIRnuow==","ciphertext":"jMLTY3ZfwL5GfSWPOsDmaE128KX6S78AfIRPAX8Nk5k="}
 {"ts":"2026-06-20T00:55:11.021110","user":"user1","nonce":"v5m9gt7hekL1P5gqm8NJeQ==","ciphertext":"dS+Mig7bue7IwBinSHzg57SxUG6MXCMW6aENojk5pWA="}
+{"ts":"2026-06-20T02:02:11.021110","user":"admin2","nonce":"6U9jaxt04lRrf+kZQU2jLQ==","ciphertext":"LnCVcf0MXoFZE2cqC4lXRlJO+ppLTm4potK5Kay40aE="}
 ```
