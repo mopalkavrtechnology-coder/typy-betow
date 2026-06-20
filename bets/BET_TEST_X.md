@@ -7,9 +7,5 @@
 Każdy wiersz poniżej to zaszyfrowany typ wpisany przed startem meczu. Klucz odszyfrowania zostanie dopisany jako **ostatni** wpis po rozpoczęciu meczu — od tego momentu każdy może zweryfikować, co kto wpisał (np. przyciskiem "Odszyfruj dane z repozytorium" w aplikacji, albo niezależnie z pliku BET_TEST_X.json poniżej).
 
 ```ndjson
-{"ts":"2026-06-20T04:17:01.418285","user":"admin","nonce":"4SSVXICdrn3K+ZmihyLstw==","ciphertext":"CPnfTHrbUHPWKwchkFBzujSodRLvIHHZED5Fgz7lwp0="}
-{"ts":"2026-06-20T05:24:01.418285","user":"user1","nonce":"WKhELnbgAFXJ4OUhier8zw==","ciphertext":"KjDNXCLnkQA7J/dxCnmKJdQREHSxFS9dhAvl0KHkjZs="}
-{"ts":"2026-06-20T06:31:01.418285","user":"admin2","nonce":"GJw+U0YzYaMU70Sj9MuX3A==","ciphertext":"xpeZxaStC72+hAf1ukwKDLaPRwnMzLlxKcntU0Rd+W4="}
-{"ts":"2026-06-20T07:38:01.418285","user":"admin3","nonce":"E8SyYCko4jVuTS/RokA0Yw==","ciphertext":"R53u/BjK1ufq7EXYYtsgGsonZS3EEm2geJ6h7T+RzmQ="}
-{"ts":"2026-06-20T08:45:01.418285","user":"pokea","nonce":"OSGDw68jczuSo28YOVXsMQ==","ciphertext":"Ig89ttpM0nqMMoBhTfOkdRddNuLPh6mS1LiyvibvIcg="}
+{"ts":"2026-06-20T04:22:24.397855","user":"admin","nonce":"0Gr+v+C1ZRAIHjfPTTyEyQ==","ciphertext":"ygsOnKi27NMAqe1PTRLaGUHHks5bW2bjOFAW8l6Ni4I="}
 ```
