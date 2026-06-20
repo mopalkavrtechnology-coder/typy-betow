@@ -1,0 +1,45 @@
+{
+  "match_id": 36,
+  "team1_name": "Tunezja",
+  "team2_name": "Japonia",
+  "start_time": "2026-06-21T06:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T19:26:30",
+      "user": "ersi",
+      "nonce": "/5dEUjyNQOSJZUH4OcAB6Q==",
+      "ciphertext": "mpUw+v4wUi72MEFTtpmqaWgbDwgSylbgWrRwSBDcIW14lVTPmsfQEFv3KPnBxxKWLVCtD22zXfnX8FiIIhMAv3U2iAKRNXzyxHDWCqgPHiI="
+    },
+    {
+      "ts": "2026-06-20T19:26:30",
+      "user": "funy1",
+      "nonce": "o3ioBCwYvc+WimAygzK25w==",
+      "ciphertext": "f2u4BiwLqg0RFlTbDp4sueANM8KmdTv3Rz2fHlmG1AUmTx0q6xOMv9lChbRyKsdJGX+9kZ1nPZfeP7SUGPuceTt743pFr/VGC5z9zg43nb8="
+    },
+    {
+      "ts": "2026-06-20T19:26:30",
+      "user": "Ignadzy",
+      "nonce": "COqlhNXv9ZK/eu0xfXC6jA==",
+      "ciphertext": "E3XRa0zQCgpqI8oKceEsmfeANri4HojFiLWxtnREJ4c0EhR2oKOOvRTEk/7WIz3lwLBRGf6pU3MdT3OBTywoIRIr714HKnncIrfPmO479tY="
+    },
+    {
+      "ts": "2026-06-20T19:26:30",
+      "user": "Misiek",
+      "nonce": "of5uhoy0IOyU8LQNOF/z6w==",
+      "ciphertext": "XC9vTDz2jHpEopVcnw7lZHklYU9ZG21plh1vqDNWQT7eJcJ1g8PKc9Z85yQjrBsZcvqu04rJurwrc75evTAjaKdYtnV+yHHy0ge5xBN95pY="
+    },
+    {
+      "ts": "2026-06-20T19:26:30",
+      "user": "NzG",
+      "nonce": "bhmFP32BE1oeYe8UgLBPoA==",
+      "ciphertext": "HLOv8IWkRr+c9tyn9/02JUXhn/XolJrfYWu4LyHJCYuo6oax/W0wILlhO2llVMHc1gZNK2t+xFxfO8cuVFcPDdbgkZoYcVm3ru7Z2H2i0fM="
+    },
+    {
+      "ts": "2026-06-20T19:26:30",
+      "user": "Sikor",
+      "nonce": "M6sD9R/z94z2mJOlevhm8g==",
+      "ciphertext": "R3AXTuh6h9E7b69YVmaTp5Vj/a7YeKEiFoBNurpJaHuvhY6ewf+2+q0DLGTru70yhCy7mFVDYdG7i8Dv/wZ8GW2lAToyNEp5y+qD75MpJ7I="
+    }
+  ],
+  "key_reveal": null
+}
