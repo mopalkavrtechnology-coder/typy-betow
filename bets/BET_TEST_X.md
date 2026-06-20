@@ -12,4 +12,5 @@ Każdy wiersz poniżej to zaszyfrowany typ wpisany przed startem meczu. Klucz od
 {"ts":"2026-06-20T06:36:24.397855","user":"admin2","nonce":"g0tsAqD9tFGUYqocaxSgKA==","ciphertext":"EJOD6pNuZ3rzDr7DB8tij4vgRzrBhNiEe7bS9AvwL8c="}
 {"ts":"2026-06-20T07:43:24.397855","user":"admin3","nonce":"9ryq9YKtAE9PC27Y4/trng==","ciphertext":"agpL1Qgg2aZM03YHfa/xCvTeuZKISfgybrLOrKxEAn8="}
 {"ts":"2026-06-20T08:50:24.397855","user":"pokea","nonce":"NxCVbpVo1DmGnHCC+0KrnA==","ciphertext":"6eyrjAsqzRgwrQyKfzmcELNB9WrONxu0dPjbNE0dvPk="}
+{"ts":"2026-06-20T09:57:24.397855","user":"Kura","nonce":"sJuJhx3VTND1QQDGqs9/Ww==","ciphertext":"MfZc+XVyWm59FxQvMp9G9/ygmTGQouLo9zKccTcXDnI="}
 ```
