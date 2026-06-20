@@ -1,0 +1,51 @@
+{
+  "match_id": 1,
+  "team1_name": "Meksyk",
+  "team2_name": "RPA",
+  "start_time": "2026-06-11T21:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin2",
+      "nonce": "RJLjsZdk4Xrs9cP+dS8XFQ==",
+      "ciphertext": "ttNz0aLBslUq4SfHWuxeHvxpQc7ZNI1v/rR0d2zjBA3F49pv6xA22lDl7EHJ3WFTxdUca9XUMkg9erOMP4uOcunY7aTWkMrra3Cibz5hcCY="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "HFPrau9XoHIAHqaftdyZLg==",
+      "ciphertext": "VSUylR4/qLI0S4tTFmAvP/vnq22NSMLHInxe3TMxKqvN+vGVNo4RXjZV+32nvIgnfbenJYoIInNZRJaQJCyZJSMSiheEqelcdY4sJxqQ48Y="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "Kura",
+      "nonce": "NmzspBXv1KF8SaAg8LNVNQ==",
+      "ciphertext": "D0ii3ipJe2VUMnXqhVW9jAcWnUiBuJVZe17Q50qhNkXQRXUZ6u8ec1yKHmM3jE6/IvjE2UN9neATIWU88feMDTjzaNiUEN0ZnQjSCYIiy/w="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "pokea",
+      "nonce": "sClVefgl7gh4O/MY2JvF/g==",
+      "ciphertext": "r2gkX1s4NQay7of38E2GUHn9qb3mUZDmH1pIAOv16/KpcSpikbCWoARoK8D/XbF93mCNMJyZ2HotCDNix1jyGuAUPDszz1TNxgjR81wzH9Y="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "+hsoyH7Kto76BlxkdTz0kg==",
+      "ciphertext": "sggz3+aGXLqNghsOCYjVmtinTyYhS21nwOTefAwDAgKG+GHOZOwiPrFSDTsN0J1PI3bvsocoxxv3iCbwNcJcaw=="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "JeEzeRsBja/lMw1WYN/TNA==",
+      "ciphertext": "geO0J7zhfiYP8y/8N+6t5EvzJGseVyW+JsjmGSqpWxQsMlTvkq45vm7EzS7/QjpVsoDI+h0hjFY6v/Tq5rVkvchK25HYxAyqYC2hzrbOs0U="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "visitor",
+      "nonce": "GZmw4650eLz0Tvv0LWCBxQ==",
+      "ciphertext": "WCgI/CKFdGZqUWNeKR1/3+XiCirD8oPwwzPhw1h3c7BAP5D2pMoMI3haVXg9xgqqXeDz/ZNwbCpZoemM8P1Vhh66X3y/EjiqrBstMDiiJ/M="
+    }
+  ],
+  "key_reveal": null
+}
