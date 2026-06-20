@@ -1,0 +1,49 @@
+{
+  "match_id": 7,
+  "team1_name": "Haiti",
+  "team2_name": "Szkocja",
+  "start_time": "2026-06-14T03:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin2",
+      "nonce": "8F6vzWrQuEHoLoluCiV09Q==",
+      "ciphertext": "UA4gn7kvhjmXyGapduxPrJSzeqDrj4T8z8VZzmxIh9DLNGeWk6hBhf4VNf14UCab/g8YsRRGINiF49yP3cqPHwtc3uy589OSc4sTEVB9Vgk="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "7VY3qvlmpl5NclIPHbUCcg==",
+      "ciphertext": "utvzCELxyxbTyIdsU0MZqOHYu9i8/o2kErMEU94QzUBsuF/x2bUmNsT5CHeioWUyTC+a6C062vYKcWemoLvUxAsVLuDMbAQsOEOFEi7m8ek="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "Kura",
+      "nonce": "XTIa75xvNOLLB51SqD8Xvg==",
+      "ciphertext": "eSMZEba3CVrQMc3erKYmbonbuJMtI+hwIk7NDZqwec3mz3+jCjbC4FT3KCXu8TwsgvJKcvGC0rV5fLMBUqyiOned88GuF5LjmJJghd3Nz0o="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "eS1A0137RBelTV1/PXRSDA==",
+      "ciphertext": "IalCq3Ua1he1Lp0Sq+3IlmHa5cTc4C79l25iAZJ78+pBnztO3L2i1ayNppkbRlmQ/0zHWF+RQiIiH9gEKFuBGg=="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "Inz5qkgQtLc2IlUndLHkHg==",
+      "ciphertext": "pFXf9p8A8oByqxFJV+5EnGP8FKtSVKGuHK4mas+f9dt/WTOPfEgGP+lQLLYRg4A0v0Z8UQReXNtdRI1nFZMNyIxHSka3g9XIoukArVEoi2c="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "visitor",
+      "nonce": "+C5HRRtwXZKPWrL0N58IIw==",
+      "ciphertext": "qxtmrviJlKdtSNpWTUYS2S7DQo2XQBPmwJOAQz5OgQfBbFitIL+dYBjlsx6iIKDZ4QO7DVgHuhRIxcEx4pjlh1apnAakyvGtJ8KyCQzKtoE="
+    }
+  ],
+  "key_reveal": {
+    "ts": "2026-06-20T17:12:33",
+    "event": "KEY_REVEAL",
+    "key": "k0ls4IRJ5lpnMPFrhInKh0EP6aJbS1d/rh6yFYSr9bw="
+  }
+}
