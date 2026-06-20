@@ -1,0 +1,69 @@
+{
+  "match_id": 6,
+  "team1_name": "Brazylia",
+  "team2_name": "Maroko",
+  "start_time": "2026-06-14T00:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "Chudy byk",
+      "nonce": "/23cKv8TD7Od6JrjTqqp1Q==",
+      "ciphertext": "cRgUnIQDEDxmJ69YpJCMXaOfz0otBydZXDyUA1otB0klM22gqUckxjXTE11//5GnXLZdMojST+QSf/Rj4vP9+cYY8bDLBJ6eHhfBseo3/qE="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "ersi",
+      "nonce": "NNeskNsvfguAZoIet0Nq3g==",
+      "ciphertext": "2+tzGkWTYozVwtZb9Z2Tq3vg9Ndsd7Z/pn8WD6YccfSeRPFRney59/f1T3RSVIhyrosA1IrchfJzLvn06Q/YpkMf9haHhtHBvoIep+zD244="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "fizuu",
+      "nonce": "59ckLjvNGPzvqI93GrRIqA==",
+      "ciphertext": "rg9t94ltE1LFj48ROKqgMQVNegy45m31rbzQytEPrprYb5OLjQnjLlXOpAtxbuuYkJlpit23PK+PNsyCuejcHSo+qZKIS4MQmYX7tDZJ7A8="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "funy1",
+      "nonce": "5lCr93Ydk9pbux8wt/yuwg==",
+      "ciphertext": "ni5N4Fxl6IEV5DjA91XBphwMN/bSt3lbc9vTht33dNTi5pXDVn9MnP38LzESU1YycXGbk2Ov52NDtRhodSIi2L1+y4JTNvPBh0eFaE6hKGk="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "Ignadzy",
+      "nonce": "1e2niNi7smoppnug43dSkA==",
+      "ciphertext": "fmvlqDbZ71dqICDVAeaCbNLNyay3K9JRA+9dbXJ24BvPeAuBlBSPlwtNbw3en2HBD2upWZN9LoLNof9DZoGchnpQbj6NfP8j3/PKJdDhnMw="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "Misiek",
+      "nonce": "MHguyWdGo2cC9nZmKH/RHQ==",
+      "ciphertext": "JcDfU51OSK0l+chkFM3f9rXiXyJm0/lX+rYuqFO+gdl8bvHkOnfRdTdpN3yJUaZBV5TvEXsjunavyb/oDqC7RaldrGBHGrDSmga9lyth0YY="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "NzG",
+      "nonce": "snR+rHGx8lg4VYmCnk1qOA==",
+      "ciphertext": "p433cM2hViQRZzGKZPptlsQpVxk/r3WOxkLrKg4VIhDIvQVQZ9LnxqEar60CRlPXfwKfS9gZJi9iQ9pk+uoonZYLvll6WGbTa8ikrXweQKE="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "Sikor",
+      "nonce": "jGWaKQZFF0AEu69RvTaaeQ==",
+      "ciphertext": "p3ycKEXqyFyWUnecTFIUbQEi3g88c8vqVLj+QhsCW16JZxZHgQHQJS1sXHsZuUCaC4nHlAR8Lg9vmPn8TTe+yicOpYmi+hSfG/m208wll1U="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "Szakal",
+      "nonce": "UKgYOojp8zprt9CMiogsiw==",
+      "ciphertext": "YcBuF82j8+w7UXOtRsZDDJscCX1JeSNRpaNE/LegODaUtxD59Gj/b9V8jDj5uMKEVkIowjYfoFV2zKnwqiBfBIvPaAUGoZKMEkmpFdvHQsQ="
+    },
+    {
+      "ts": "2026-06-20T19:18:12",
+      "user": "Ziggy",
+      "nonce": "EsMmqK/u73LvT9z1DjLy8A==",
+      "ciphertext": "Xp0FGBMxOx6Un5VemaQIb6F3yjlR/k3ung3ugXTy1su0Dvs8nGRLEiGpMUPAA9lgV5tKZZ1Fn6x0/zrjmW41mLc0c52g5Il3KMzx/Whb1A0="
+    }
+  ],
+  "key_reveal": null
+}
