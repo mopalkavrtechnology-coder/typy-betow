@@ -19,3 +19,18 @@ Każdy wiersz poniżej to zaszyfrowany typ wpisany przed startem meczu. Klucz od
 {"ts":"2026-06-20T09:51:11.021110","user":"bobnowak","nonce":"g/jroj8RzlgMlLvCgr+gGw==","ciphertext":"1MQgSurjJ2AOwI59RrO2/CFF3QnV/DJy9+wxJsQYerc="}
 {"ts":"2026-06-20T09:53:11.021110","event":"KEY_REVEAL","key":"Q3BcN+81JqsovGDwWLCcmkOSvjzul0JSUVw6IIG/Zn0="}
 ```
+
+## Odszyfrowane dane (do weryfikacji ręcznej)
+
+| Czas | Użytkownik | Typ |
+|---|---|---|
+| 2026-06-19T23:48:11.021110 | admin | 3 : 4 |
+| 2026-06-20T00:55:11.021110 | user1 | 3 : 2 |
+| 2026-06-20T02:02:11.021110 | admin2 | 1 : 4 |
+| 2026-06-20T03:09:11.021110 | admin3 | 3 : 1 |
+| 2026-06-20T04:16:11.021110 | pokea | 2 : 0 |
+| 2026-06-20T05:23:11.021110 | Kura | 2 : 2 |
+| 2026-06-20T06:30:11.021110 | q | 1 : 3 |
+| 2026-06-20T07:37:11.021110 | qwe | 0 : 3 |
+| 2026-06-20T08:44:11.021110 | alice99 | 2 : 4 |
+| 2026-06-20T09:51:11.021110 | bobnowak | 1 : 2 |
