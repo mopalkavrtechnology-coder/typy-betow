@@ -1,0 +1,21 @@
+{
+  "match_id": 83,
+  "team1_name": "Testlandia",
+  "team2_name": "Problandia",
+  "start_time": "2026-06-20T18:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "bobnowak",
+      "nonce": "PsaXq8Vztxn9wRxUG6UOnw==",
+      "ciphertext": "5XAOhxcx3IDPeHUfQSV47qRHYNnf9Rnx9JNceRXDO8Tst4hqARKmTXJ/qNrZXca1P/iaMaQKy9gCKRcuim1Av8F4wi1CSHC4STw7FZsXjMA="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "alice99",
+      "nonce": "+2T41FSyNIoKL1OqVgOqxQ==",
+      "ciphertext": "hHvTaXYqyzn1PdZJF7+kcaRLeruD8OIHOrRp5+idLw9D5WlZr1UaHffPcWRTK8eoCrECla+hFxoQa33FzFt+nZJWLQjUgQMM/P6gAGO+690="
+    }
+  ],
+  "key_reveal": null
+}
