@@ -1,0 +1,15 @@
+{
+  "match_id": 10,
+  "team1_name": "Holandia",
+  "team2_name": "Japonia",
+  "start_time": "2026-06-14T22:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "dzTAJs0+VaGG3X69hBSa9A==",
+      "ciphertext": "AVskY809ApZSo39N00+DOiLMammBCPjWQwqytAiOaVQhwjmhVgJL+zAEXrLoE5vUkcPlfSlY5Eot5IcZQ3nAT98JUj3oMffsEAcCA600SoA="
+    }
+  ],
+  "key_reveal": null
+}
