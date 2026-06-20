@@ -1,0 +1,21 @@
+{
+  "match_id": 25,
+  "team1_name": "Czechy",
+  "team2_name": "RPA",
+  "start_time": "2026-06-18T18:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin",
+      "nonce": "8/2FIKOt8bLeYtM7WSaQkw==",
+      "ciphertext": "SwZf7y/WCd/L7y/hgOmy+Z1HoiNreISUFVhW+cjYPhk+7WmC++Cf8gQU9pARvlXraeTtfIBK9JyasROBqS/TI6YBkNz4tO4l3NeWPB1kGP4="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "twfY8OHSCmh5PU8wdsIvjA==",
+      "ciphertext": "0D+yckwp1olEOkceVvOU5QRUTGXFQMIRR/2tDepFP5J5oqnoCuhfv3Nb5ksJ5mHi8QJbH/PRKIfPFOkk+G2h8Q=="
+    }
+  ],
+  "key_reveal": null
+}
