@@ -1,0 +1,19 @@
+{
+  "match_id": 15,
+  "team1_name": "Arabia Saudyjska",
+  "team2_name": "Urugwaj",
+  "start_time": "2026-06-16T00:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "KOCrWHdycZBefgnWVt0KBA==",
+      "ciphertext": "NHgf8Mcn+e3Q1zG3G9EamAHCmVg3yGnQi03P4vIfPT5qZLobPYWo6Y5WyfxJZdeorQNlcXbfqzTK1s2/KBQ3Iyebq9IyPztEDz+yPJmie7A="
+    }
+  ],
+  "key_reveal": {
+    "ts": "2026-06-20T17:11:11",
+    "event": "KEY_REVEAL",
+    "key": "zpvSWdUEUfRHkAevtfiXHzJjPT0mtu5UwPpbuyVnEUc="
+  }
+}
