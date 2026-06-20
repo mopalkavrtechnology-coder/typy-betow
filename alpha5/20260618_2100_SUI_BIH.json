@@ -65,5 +65,9 @@
       "ciphertext": "q8bQQ6xg+DeWKA47wRminxtsk7krAls4DoVJkr2qKrup6xquBz6yV65e9rbyKYHdkO3WlLw/B3lzIj3yGp8cBh5/cGdN9yM0HRJiZFx7mag="
     }
   ],
-  "key_reveal": null
+  "key_reveal": {
+    "ts": "2026-06-20T19:19:36.830900",
+    "event": "KEY_REVEAL",
+    "key": "CCM/wPyy3bxU8XiTuHj5koG7+DSwPUHy95qJllaFxpk="
+  }
 }
