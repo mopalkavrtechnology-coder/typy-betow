@@ -8,4 +8,5 @@ Każdy wiersz poniżej to zaszyfrowany typ wpisany przed startem meczu. Klucz od
 
 ```ndjson
 {"ts":"2026-06-20T09:00:57","user":"admin","nonce":"290pPuLKVjcwjgcKDDSD+Q==","ciphertext":"PE1N6BfXz6vUd2JkPrGRvGozWLlAKrsm26sjXk4lIgs="}
+{"ts":"2026-06-20T12:13:34","user":"admin","nonce":"/o6V1Hk2Nk+oBSK5K2dxPw==","ciphertext":"cYZnBcqGIb+JmZoMDaempu8KPnXT7pBnI1A84FpkB4s="}
 ```
