@@ -1,0 +1,63 @@
+{
+  "match_id": 23,
+  "team1_name": "Ghana",
+  "team2_name": "Panama",
+  "start_time": "2026-06-18T01:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "Chudy byk",
+      "nonce": "Z98NAhX0C6vbdUZsjXP5OQ==",
+      "ciphertext": "5C0tDtDDe64RQqL8jIdEaZ1R/QAGaSMAsg0ZxapJV/ff5LdRY80eRs6WhXgXUMc5zGXsrO573krB/DEMb/oip+pyxIv+GGykmyk/E5Fp7L0="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "ersi",
+      "nonce": "4vTt8jQjBFlbm/rlSCr/9g==",
+      "ciphertext": "DUAP0vWljY2cZkg0k5eQFP9rfWz+YgrYPWYN0q9GxubzBVLXUZIe74za6RkFbAkd2cR74d5St14PeiPXyvB1xSbgZMAneRgJianclTyr8K8="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "funy1",
+      "nonce": "7dyAtTAahnYl03k+3kCeUQ==",
+      "ciphertext": "O7XOTDa1EJqreEw9vzXRDpbmvQYzCDpBDSAkEf+UXji5FtRuD111u723h9zBmNcIbKkzdy5TDDm5BsCUYb5ALXxvSHniATH8HWE+17Ma9x8="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "Ignadzy",
+      "nonce": "btEM6oRPHST4l3TDwTLI1Q==",
+      "ciphertext": "bsEIkQEd+gAZy5vvKLZfJaXDFXba6uxUQaZMP8K55bvLzitzks0gec5KR5UZ9ttZEW3Ihi1Nh4OOIUhvFeCS4w3Qjz+b4Dlx7JyJSN1r8MY="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "Misiek",
+      "nonce": "t8FXWUe0DHjyhWpf/5Nzag==",
+      "ciphertext": "qxJRkeJ4w832lVXXxvEriFF6DcW0JetBtlduqmHPTGDMjaVYj9HSJY2g5gU+sxpvhWpIVHWiw5AQ1GpoCHN4aO2P79+BeXlgCS1058FDczk="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "NzG",
+      "nonce": "vCdrNqE99EkBCEORdLYazg==",
+      "ciphertext": "JCRmLvcE5EaulfIEzQLbW1P6+qzDc1sJdeCv0DuCqdD/71zpkkDkHmaKw0JqYe4OI18uFO2z5qZT2D6RIXR187qvDND070u1HgHY9EwK7LI="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "Sikor",
+      "nonce": "Ed1QyMT4B6HArG7ft0YoYw==",
+      "ciphertext": "4twaXyr/xFV+hqnnGxv426VDSATt7w9dwCDAyLeF02PEv8b4HJX168X0ulUlFi1vF+iwVuysRkRG2gzKXCS1NIWPW0Am3GGP4nW5vbJJhp4="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "Szakal",
+      "nonce": "eM81W4TnUrlojcOWzWuszA==",
+      "ciphertext": "yD7fo5ji4ZpTwVO62x4jOlLQ21Bck+Hvn+ZKrmlrtwE+EZsNH4FEdYXBys7V59wQerWkrJ5ozvVHXNGiIsFCjS+mzFHrK9/UTPcGqBerPEw="
+    },
+    {
+      "ts": "2026-06-20T19:26:29",
+      "user": "Ziggy",
+      "nonce": "CY+eex2Pwxvvvp+q+DwgDA==",
+      "ciphertext": "UgIy6ISSLX7Uh+KVlECkqR7ZLXwBvjCSf9Zy0ztfav96DeZBqhHRTy3bASJtBYzZMFfJyYoRomaKP8UQOny8kI8clXFnCn5+nknUXZdmVjo="
+    }
+  ],
+  "key_reveal": null
+}
