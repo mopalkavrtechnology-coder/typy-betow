@@ -1,0 +1,43 @@
+{
+  "match_id": 6,
+  "team1_name": "Brazylia",
+  "team2_name": "Maroko",
+  "start_time": "2026-06-14T00:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin2",
+      "nonce": "vnhobRZWfJQ32sUPVPEz1A==",
+      "ciphertext": "CNNE/zEy6J/O/lfnQGfr2pkqOKjNSbR5WWRRyZpkZAV8N2M/OHKdMSecd3ubzPWwJvWAdxNwe2QNM11MlG3dZDj49y5nXkl9wbt/6ODv2II="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "rXW4zKGaV08yq+cm99uzVA==",
+      "ciphertext": "aIV58v8R2RSn+B6yHEEZUvZrwJXMCxooEaW+9rXoZ0N3hnfhZy78lQuZ8zdKc2gLdy76uiOAoQhHjcnBQ2y906tfSia8qv5QXbKpUsMCLzk="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "Kura",
+      "nonce": "Btv1Nl+kGoMwZiwDKbngFw==",
+      "ciphertext": "ALjuLeA+F7vAeBhuAEW8jRf4HpoTz8OV+MOOUCg/g6kkq4BJ8Ngopd6QYDn35mA8A/c6Ed4Q+9gZhWB6yU9XGPHsfiJvis6ejLvwjA1aROo="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "XbtenouchyxoubKzOVtMGA==",
+      "ciphertext": "xES3wjk4P5QP3sQO6CvG2O5qlzguMljAu7dBsZv5eWxDYVqAvagLtHllfeb00TjtIDt/9hhGwbLvR7bP00t2tA=="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "EYA+J37tTROxJNyXZPDQIA==",
+      "ciphertext": "y/g11BMiGL6n4oH71rw17TpYileYLYi/NpbgpWX3goGxPO38RCLx5mhv3zFs5Pf8F7ZkbQlkgF9PMUhOwOTXbKxd+iwuxCc/wBKXSq0qktg="
+    }
+  ],
+  "key_reveal": {
+    "ts": "2026-06-20T17:11:11",
+    "event": "KEY_REVEAL",
+    "key": "7yREnQC4QAuz2acBu/DB2Z6F9qg7NTRANZbDiVa+r7A="
+  }
+}
