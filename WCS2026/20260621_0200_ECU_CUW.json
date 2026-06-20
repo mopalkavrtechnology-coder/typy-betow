@@ -15,6 +15,12 @@
       "user": "fizuu",
       "nonce": "hY7ELW12kVnDr7FJoIcexA==",
       "ciphertext": "51C0s5SzZbs09xPX8/NRtlzDCnQoHx2kvL9tMeKWrd2Gs8Dz7eEmKsti1QgtjaqFxinojsPOCNd2VaBQEbkNY1ZyOKrl/VnBMwtB14p8gSk="
+    },
+    {
+      "ts": "2026-06-21T00:15:44",
+      "user": "Szakal",
+      "nonce": "iqcdGy8J4Kw6JJk1ikR8TQ==",
+      "ciphertext": "Lf/kRQ1P/jvHbjSC+jew7gUHpi7pHqkqWXEj4dA+TNhZPMaqkd15o05OSkLSIsLRWwn6m4nfO/vVOkK4yCmtPY8iDoSgQxW7xABRcT6394o="
     }
   ],
   "key_reveal": null
