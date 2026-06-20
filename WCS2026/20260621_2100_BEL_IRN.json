@@ -3,6 +3,13 @@
   "team1_name": "Belgia",
   "team2_name": "Iran",
   "start_time": "2026-06-21T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-21T00:02:11",
+      "user": "Sikor",
+      "nonce": "gFfNPxJjF+t0XBpiGs/IFg==",
+      "ciphertext": "rGd6Q6L1H7DoNSPZXTCb61pSX6esXmMMBDkbpkkqkPd4WlPsLohVeuaE9LHVxQ/XORxGZjio56XqY5KMNKCt3Apn4Dg2g9qbhCA/6Xm55YI="
+    }
+  ],
   "key_reveal": null
 }
