@@ -1,0 +1,45 @@
+{
+  "match_id": 33,
+  "team1_name": "Holandia",
+  "team2_name": "Szwecja",
+  "start_time": "2026-06-20T19:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:07:21",
+      "user": "ersi",
+      "nonce": "r2PWIcU6HpGuAnust2ZPmg==",
+      "ciphertext": "6TvtncZWzP/YdKcpIGYlN6P6b411W8ySktdyDZw+aEhpWNaQbhzx0yj45XtI7fG036mhfxEZiG0KSpgj2wp3/0ymf7+Bl+s0xaFECUTunu4="
+    },
+    {
+      "ts": "2026-06-20T15:07:21",
+      "user": "funy1",
+      "nonce": "35tE6qECileZ9gnbzDPdhA==",
+      "ciphertext": "4QxovXJoww7opbi6bVkzpknsnxNAxTjeSA703hqWmrg7Pkrg0OyjTWD6vg7CtGFPSD0Xa/LgkSPG/l3nT7BsLDhFGKgm3D6t3qY3MKqEl7E="
+    },
+    {
+      "ts": "2026-06-20T15:07:21",
+      "user": "Ignadzy",
+      "nonce": "pLkzCjEJhzme7Ewcfp0FJg==",
+      "ciphertext": "CtpmjruN88+L1V5wg9TmA0tXc7+WcBmTHKfzVmHRuHA0T/YBxsT3l8aw4a8bEoVGgUY2aaQgJKSeGBXslEs8N+zJSXpRoaIOLZeEwwkf3LM="
+    },
+    {
+      "ts": "2026-06-20T15:07:21",
+      "user": "Misiek",
+      "nonce": "rMbr2pw0gg/8dAK2S0sJ+Q==",
+      "ciphertext": "KZzjPdvoNK5UDNJVNheoWnF1du8ekAZBVeaA6PVERX3HAaYmnqA9bK92WX/IQUnWdir+ThKtTS95da99yI/JgXr4tbJzt3adlELQdxLJPn8="
+    },
+    {
+      "ts": "2026-06-20T15:07:21",
+      "user": "NzG",
+      "nonce": "nzDFTFcGxVBHgWKWDPHKew==",
+      "ciphertext": "Hh4uY9TTfjuRg2LP273jUG96oVH+0/jt8srpxsVp0Eg/8WQVjE6HfQ3qILOqHLtuBonriZG6K9CCBaNL1wd775RsCT5W1PHMNRT0T4a1dCk="
+    },
+    {
+      "ts": "2026-06-20T15:07:21",
+      "user": "Sikor",
+      "nonce": "mf3sA/q7EiJk6rPfJH4GYQ==",
+      "ciphertext": "qE/n7VCcl9hikzRA2NPEy2wZHRJ8+NYwaqXbM5YUeC6KgHxRPhycN1JHHPmxXhejLS5x/fU7cLrEVHMCjcOJ07zX2oD5nnj6uuPM4vHkCtQ="
+    }
+  ],
+  "key_reveal": null
+}
