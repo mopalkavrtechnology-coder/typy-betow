@@ -20,3 +20,9 @@ Ujawniony: 2026-06-20T15:45:28.497857
 Link "Odszyfruj" przy każdym wierszu w tabeli powyżej otwiera wyszukiwanie Google z gotowym zapytaniem dla tego konkretnego typu — nic nie trzeba kopiować ręcznie. Tę samą weryfikację można też wykonać samodzielnie, wklejając analogiczny tekst (z odpowiednim IV i ciphertext z wybranego wiersza) w wyszukiwarce internetowej (Google, Bing, czat AI itd.), np.:
 
 > Odszyfruj dane wykorzystując algorytm AES-256-CBC. Klucz (base64): TclyxZ+pz7qK29+7ziwagZdwvIJBwfaw5eOHuzDfVjk= IV (base64): <IV wiersza, base64> Szyfrogram (base64): <Ciphertext wiersza, base64>
+
+## Odszyfrowane dane (do weryfikacji ręcznej)
+
+| Czas | Użytkownik | Typ |
+|---|---|---|
+| 2026-06-20T14:40:28.497857 | admin | POL 0 : 1 BRA |
