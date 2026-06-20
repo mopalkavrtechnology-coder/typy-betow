@@ -3,6 +3,13 @@
   "team1_name": "Urugwaj",
   "team2_name": "Republika Zielonego Przylądka",
   "start_time": "2026-06-22T00:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-21T00:02:16",
+      "user": "Sikor",
+      "nonce": "2mrp3Bnfc5GE1oCiBw8n5Q==",
+      "ciphertext": "Up5W8avp4y1X9d62UqgdL63slK0RwDpI2u5H3QdCX4D2RGyHoDh+kCD5rEVhLYkWES15f9v/jSvcVyHEnJayzc7xi1upWzD/+273hzjklKI="
+    }
+  ],
   "key_reveal": null
 }
