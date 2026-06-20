@@ -1,0 +1,15 @@
+{
+  "match_id": 1,
+  "team1_name": "Meksyk",
+  "team2_name": "RPA",
+  "start_time": "2026-06-11T21:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T14:52:39",
+      "user": "user1",
+      "nonce": "vbbE8Ft5X3S3GWDl2GnR4Q==",
+      "ciphertext": "z+BBnTBH7DstxHqL5sPb8odvjJRsLOFtb1Q13cHUIWkllJsV6PIFSPRqbnxhNDmF2l2ozC2VTKBRSzIWDID0DlEyWHZVMB3mjUdAGCg35aM="
+    }
+  ],
+  "key_reveal": null
+}
