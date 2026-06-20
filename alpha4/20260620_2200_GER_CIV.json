@@ -1,0 +1,45 @@
+{
+  "match_id": 34,
+  "team1_name": "Niemcy",
+  "team2_name": "Wybrzeże Kości Słoniowej",
+  "start_time": "2026-06-20T22:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T16:54:49",
+      "user": "ersi",
+      "nonce": "SLOt94yoTq0dYuHik0TTVg==",
+      "ciphertext": "IgiSS7vUlwS75bDUDjtxuz3mRxtvkqUeZ7PlW/qInM/2N87916i1YLBC8qQu/B/4v/0z7Q5xI3r+W8Y+vqiYyD6GPsdwGE9abvj+wTgTWig="
+    },
+    {
+      "ts": "2026-06-20T16:54:49",
+      "user": "funy1",
+      "nonce": "8CEfF5atYUQOTgYJdct++g==",
+      "ciphertext": "FYdUJUkqFL0V6a61IVQUWiJNzyvf9jPOFk0WMUt2UcElUaw5asLmmOnM/kvHV71t2sLQZqoT0AqWbO0y6ZhUoOr5oB1lEQcSFg2gaJbLfqY="
+    },
+    {
+      "ts": "2026-06-20T16:54:49",
+      "user": "Ignadzy",
+      "nonce": "eDTvG2ahLgR6SXHPXeA5tg==",
+      "ciphertext": "j8lKHykE8h3Zm9AVMxMFQHsSR7LCKgRk+vxZOcQWKoOQiFV5BNBjtyIQjts8wDY6AGIf0YDkdSXO14ar/3BUCDrX6Iar1TUBas9vF0BWN1s="
+    },
+    {
+      "ts": "2026-06-20T16:54:49",
+      "user": "Misiek",
+      "nonce": "2O/jltkD83dPX8uSGOXuvA==",
+      "ciphertext": "oeo+707m3nn8sn63nCq+cwd5sOlh7q8zGAa5HOer7YEe/KS1eKRexHlFFgS3FzyKXQed0B9XJz7u6xeKpD32WU80pPY+D30eYHVblnmZP3A="
+    },
+    {
+      "ts": "2026-06-20T16:54:49",
+      "user": "NzG",
+      "nonce": "39LxYVD4LIFabTFbYQdF9w==",
+      "ciphertext": "MST9wP0nCohZJaH8HqWRvPlr6VAN9WE4IUGYkvBnd51QtA4vFtObq07en77aWwcaZ4DGS5ZXVJpvvnNUOg98rKUIKRX+pHpU1oG75ePMi6Q="
+    },
+    {
+      "ts": "2026-06-20T16:54:49",
+      "user": "Sikor",
+      "nonce": "muVVgKsyvXxDqqm+TcSIHQ==",
+      "ciphertext": "qiPAQmQ2lY9CGmLPY8u5p/p/RtD7icFkLAC7+Zj7EU5eY5z8uR2G98/y7/lbdfVCKJPX/o1OcN2/4RZULF25bNeNhbBeVn9MFTD4+ltNzJI="
+    }
+  ],
+  "key_reveal": null
+}
