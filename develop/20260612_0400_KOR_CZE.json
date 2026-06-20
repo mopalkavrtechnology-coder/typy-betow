@@ -1,0 +1,55 @@
+{
+  "match_id": 2,
+  "team1_name": "Korea Południowa",
+  "team2_name": "Czechy",
+  "start_time": "2026-06-12T04:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin2",
+      "nonce": "URxE9HCj5BmemmG75BJKkg==",
+      "ciphertext": "DS38LBcYcZAZN/HWV3Nc4UVwIWJXfWF6dqB+YrmSG4yOBHaT6kP3CTLi3levrOt3p1m5Ipw7eRBpdrJqtIdBwKTmgscGTgwl4JcHxG5ykGs="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "N2Oe23T31pw6zeIsCN2uuA==",
+      "ciphertext": "KPWDmeSZaky4L9bsJrWksW/EZjInDJkI2c/NBBPkFWmdf/Q47uYt7v0c9J23GEoLNoI1J/FnSOWrBZPDNim2ycR8qfvj9hB6ZGDH1Mefxfc="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "Kura",
+      "nonce": "+qnIcKsk3MKSCd5H+zqpQg==",
+      "ciphertext": "4KosK+zcmG5EDfkdQ2Q7moSXMy33gNIAuV78Mhj1eTFJzB3kCtf0I4Mool1+wc3LEFDXqaU9lFd962mpyToCJa9ExDXhz+6BYD8BQ1Dbe2k="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "pokea",
+      "nonce": "OJvSoCq5isZTQhahQzhZeQ==",
+      "ciphertext": "JAlf343sPhqYXVYUJsS8Tiv8Ri+UGIijfTuT4MlNTg1F2FfZyeT3z/xy8jrOLf2H8VPGYYfGaqJ7XogrJQcpNw9ugZ2Da0JOAvybZmRuCEU="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "aPFzsgSjA8c4lL2eyV2/KQ==",
+      "ciphertext": "5LVXdhMrI8wrUMFbE+Ic97OgsHgryGekkixzupRtfi+QfvZ806wcegikR0n/xxmr5kzAscMRjYI2L4PMNih4Tw=="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "w+DQqU7eh7yetgALPe1pag==",
+      "ciphertext": "EXOtrzBwDK5wi/zNZkBp0lrSb4Dtg/DMNqzb6s43dTElFE6hJvCq9SJLIH0uaY9KxhZvshZfbBHfHdlE6Af0oKPSF2tZDatFU9b8SzRdJEc="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "visitor",
+      "nonce": "OBvvky7C1jc4RN19hB/4dw==",
+      "ciphertext": "qrGhOZlJ3+UvMqlWsgqAQzpBL0jvKh72hzNH9eI4SeiX+OP7pvLsKNYa1MdjP6ItoMf9fWRkAVlQnKcLDPuPXH3KiI3+s6imBmsVUgctqCo="
+    }
+  ],
+  "key_reveal": {
+    "ts": "2026-06-20T17:11:11",
+    "event": "KEY_REVEAL",
+    "key": "Y5YtKjlWQkIf7dWvxpun7timJet1FVMO5RRGKo/CB9A="
+  }
+}
