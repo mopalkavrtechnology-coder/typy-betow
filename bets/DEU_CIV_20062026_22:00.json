@@ -1,0 +1,15 @@
+{
+  "match_id": 34,
+  "team1_name": "Niemcy",
+  "team2_name": "Wybrzeże Kości Słoniowej",
+  "start_time": "2026-06-20T22:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T12:28:37",
+      "user": "admin",
+      "nonce": "CTh9KCAkMR5xT50ChyJe/w==",
+      "ciphertext": "15zBozK4odTD96gtPpXy2cUs4j4Fe3Bu5tR8JxclFD0="
+    }
+  ],
+  "key_reveal": null
+}
