@@ -1,0 +1,69 @@
+{
+  "match_id": 17,
+  "team1_name": "Francja",
+  "team2_name": "Senegal",
+  "start_time": "2026-06-16T21:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "Chudy byk",
+      "nonce": "dya+SCh9HW1gR++7TBmiug==",
+      "ciphertext": "HJjN1V3vx7hpMTiAD/E1jg8eNuc5PwQJ01mtcc3iq7vb38EzT5OSqpFAvTZA/Jnq1Y7GuvqDcd8pDD9Zl39UaXSXHx6I/zZXqnASD33YZns="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "ersi",
+      "nonce": "a2LRaA2VuLYGFW6FCw9Ujg==",
+      "ciphertext": "qV7PCh2IpHdBuOOw9Onyg/UjJg83p5sc7/q28nfdtD4pHfSxgu8V9qZMXiVHibwqd/2suBAvw0VoXpBxzh4qOJjtjSAThyoTF0eJSTNLpjg="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "fizuu",
+      "nonce": "SVVGlgprxofDDmiQEXRXiw==",
+      "ciphertext": "QAZyxZiJr/cRU+Otl//cZLOIijqf51qHmoKAyGUR3+cTePJrJ4n9lxZIwJZ4TDXeFmy2nVO7wjAXWv7zEF9+Dc3YhHLLeMWvDSysjeFYAHs="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "funy1",
+      "nonce": "bbsHmheSZ7Jpy8faoyrHHg==",
+      "ciphertext": "fW72Y9QdM+H61qGyNrCGW0eq9ONkqtJLHa11taET6NefSJ5zMQxl/sQgRkvcOqk6qx9cTCuipx5U2Sz3DennlvxYUjCjC30oz7s+hBMeBMA="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "Ignadzy",
+      "nonce": "N7tGSBePIOdybc1ccsBvkA==",
+      "ciphertext": "6xs0SC+MkVmE0OEAfz5BYaOuls4su9xia1d1F2e1QRuMftDp+JV5xGbYF6GQiXs/+zIojIcMGGsA0EDJDkB7zSZWN8JjCKQFPUwIEFzLmCs="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "Misiek",
+      "nonce": "6lUphWl28tRTa7snvBzlpg==",
+      "ciphertext": "HwtkDe2mRh6qOtv57scJR0o0AIBNh2BBBCtsD99SwxM1FJKT3dLbv+nF3cVUzYEQcxW03/kEmNrxc285VKwAp9ip/a06IEsQoZAv1c/A06U="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "NzG",
+      "nonce": "jODKDHRu8/ruZya3TjclYA==",
+      "ciphertext": "n5cBsEM2fRdk42Bpjaj4K+5x6DAoK20aqh3H5GVQ+Cw7RsvGbYoSKl0PflC6zOBfWrqraMdadj0RX/09Bf6fvBTINLnxDohEItkWBOmmHrc="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "Sikor",
+      "nonce": "b1L+6xohqQW7yxvhqaJ6Eg==",
+      "ciphertext": "No5PgV/bX9F3j8ZulCn4D3flt2cU0Fx/SI/09OCBHwEEQlZ38JiuoYxNqXJq0lg9m4VkWbxU/mKrGFKp/IBbVOqVhCt7kVXSkkQcBkQ2vTQ="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "Szakal",
+      "nonce": "YSepVv5xcxjk+C4n1ayYpg==",
+      "ciphertext": "zWQ+E9bWGZ4T/gkzYIGZXTAfnMobaOaW4sUGjxJ5gttkC9BoGFMLkfGCs7+mWdsb1LQm2LdjgligSH3swSM9dNa7SYUocxKxTCkrnwWX5ec="
+    },
+    {
+      "ts": "2026-06-20T14:57:53",
+      "user": "Ziggy",
+      "nonce": "KU3qoZaznxzozLIdS+2Qgg==",
+      "ciphertext": "ZwxNv+HejhTE06gbbN76geNXAqwrBVRUE7Nk+xlL0Y8czLWzbHrGfd+S9IlJVMzg/Nv7jWi+5MqG4bMm7jP6/O7Tvt07KJ4di8h+t0ZQm+Y="
+    }
+  ],
+  "key_reveal": null
+}
