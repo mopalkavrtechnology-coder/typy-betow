@@ -1,0 +1,51 @@
+{
+  "match_id": 3,
+  "team1_name": "Kanada",
+  "team2_name": "Bośnia i Hercegowina",
+  "start_time": "2026-06-12T21:00:00",
+  "entries": [
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin2",
+      "nonce": "EMlAe6mJ/1HSFLYckPXAqA==",
+      "ciphertext": "h6bGO5nsBsUgGm5XphosZHnLlzbqxM8hExU3YyqQj20kiCiXx/YJJfGl8Mk8ZAddX1zOm96EWM6EXkpiFsUZ0iaofuu7R4+RpSCDi80/wEg="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "admin3",
+      "nonce": "m7PEPMWcAbsIDRgYYJ0UeA==",
+      "ciphertext": "W01dgMdJlaaiEoGPvcm0hOFXWy8NvB2+5mZi2UhbayPW72n4zsvgflBQqfkrE6Q/Lsgsrsdzqj1kfkNy7V1JecB3U3bu3kXwopym8KLrNeg="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "Kura",
+      "nonce": "gGql88bi25/WR4s5Wg6dOw==",
+      "ciphertext": "l0fuBkjU7kbXX1Zd66VdMCYtoMAi52aMCsHH1PbPzzoRixlK6smZXIjUjVdNFoJ1IGwZaIw2qHiOgVg1fmzbLsALqGx2HeUSZhQe/4wI7Zs="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "pokea",
+      "nonce": "lvHssraLGeeorkO+82WX1g==",
+      "ciphertext": "aUTXQDAoRrGXPkxPqYnS26Eesxwd/qhNwXhhkLYR2ZQrpQRS5d+iB9GiN/2cs2ubP5hXtLpNbi17S/kcznyh3h8sbWzzt34HPE6siWY6Sg0="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "q",
+      "nonce": "KWWfAmj5kOHOteBAKRcDBw==",
+      "ciphertext": "n8IHkfNoIWtyMQWem7mhTGceIHjI5QwM9frPo4FD1YMHuZGEayxSLlfr4LrMFVW6oLWi/uQhEcTy6BoQ37nLXA=="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "qwe",
+      "nonce": "UYZZP3rG70gnJt8qOdrYsw==",
+      "ciphertext": "geCAK2w91n1Cj/XccSTleKI6K1V5axHi043Q30yjRuJSMBznLjEgqSuV1T+Lk4kpP42OrVEn3YAP7+dzXG57i3S7hkZvgHuc7ZO3FKNdIYs="
+    },
+    {
+      "ts": "2026-06-20T15:10:08",
+      "user": "visitor",
+      "nonce": "ib1qY4zkmQRGotP/O1oCHQ==",
+      "ciphertext": "OPvTZp+IuJFYXNKGZM0sY/CuUUgjevQSzdtRQHcG/eeGyw+6IQBrHmskHJ9FTEf6vtjh72XSjBAtUBJ9M0wOv6EaI4ysWjC9lzWGyF8oRmk="
+    }
+  ],
+  "key_reveal": null
+}
