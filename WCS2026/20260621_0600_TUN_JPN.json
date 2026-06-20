@@ -3,6 +3,13 @@
   "team1_name": "Tunezja",
   "team2_name": "Japonia",
   "start_time": "2026-06-21T06:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-20T19:36:27",
+      "user": "Ziggy",
+      "nonce": "M/2OUmfOKN8c+xHquXqNUw==",
+      "ciphertext": "ZRwLS+2aHPPKrfb9O+3soqOqiKXyraUAZRV7QgMsL+znSNvmalgNYB0WXPTfYp/tf/IOD8Gq+oZ99biJylO4QWoZJpUm1WhHWUcSN7fVK1A="
+    }
+  ],
   "key_reveal": null
 }
