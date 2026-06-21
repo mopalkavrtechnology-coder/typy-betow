@@ -3,6 +3,13 @@
   "team1_name": "Nowa Zelandia",
   "team2_name": "Egipt",
   "start_time": "2026-06-22T03:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-21T06:59:48",
+      "user": "Misiek",
+      "nonce": "XlSJf/m4zOY9ZhkTPZrzsw==",
+      "ciphertext": "MPwDO12tDTwgMiUUaPG1u19Exq1fnMgd39sZUYTDrRFCuY/aVWfRN3i5UZF2++ykuM8kOgf6g+dKDzQF86kSWwqdbH9jUQNQQ41EBprORfs="
+    }
+  ],
   "key_reveal": null
 }
