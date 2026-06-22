@@ -3,6 +3,13 @@
   "team1_name": "Jordania",
   "team2_name": "Algieria",
   "start_time": "2026-06-23T05:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-22T06:48:58",
+      "user": "Ignadzy",
+      "nonce": "d1PjSopUbXo121FSRGmNAA==",
+      "ciphertext": "29Txv5yQIHhBM1k5G8qPFhcU9O6LkQ+fQHRFdG1S0G2+g2thgi6erVK5JgYuysjtmU3IYrpxtHm2Lyu4xKC6fpJxX1wkQ6mghDZPC9T7ZSM="
+    }
+  ],
   "key_reveal": null
 }
