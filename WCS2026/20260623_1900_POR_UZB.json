@@ -3,6 +3,13 @@
   "team1_name": "Portugalia",
   "team2_name": "Uzbekistan",
   "start_time": "2026-06-23T19:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-22T20:46:32",
+      "user": "NzG ",
+      "nonce": "9SiwRQU21O0xz/HYRMCz1g==",
+      "ciphertext": "DSEdbEqHLF2hXkmjTYWbDMvm+c8+L3LrER+a7rYty8ejK6FAx40kXaaHdoD3KqReaj48xzgI82OEx4LLWFMQ7yMtO2c96LLGuOVnV1i0MyY="
+    }
+  ],
   "key_reveal": null
 }
