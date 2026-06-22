@@ -51,6 +51,12 @@
       "user": "Ziggy",
       "nonce": "AbQt67ewvhq6GnHFEP7Udw==",
       "ciphertext": "BNvMhH5F95uWMnyx6ujxLVoCyMLZUY7kB1oWMlZdIsh9KU+hMEz98uDJ7QMZ62/xs0V2rmhwySXIuvdQ2wh/B/BJslLmJ8W2EwjPiCdzugE="
+    },
+    {
+      "ts": "2026-06-22T16:43:33",
+      "user": "ersi",
+      "nonce": "bBOQKKNBGODjSsNclELrHQ==",
+      "ciphertext": "o2EitENwxYjQ8zRt16VVC/qOQ0osT/v6TJIiCPML+ztKRgJgM5SGCNqRpG+nBYFLGtglQjw4KswcLMhwy+2YauUEaePEOhRqYmudJb8Y0PI="
     }
   ],
   "key_reveal": null
