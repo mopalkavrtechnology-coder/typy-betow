@@ -3,6 +3,13 @@
   "team1_name": "Norwegia",
   "team2_name": "Senegal",
   "start_time": "2026-06-23T02:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-22T02:16:58",
+      "user": "NzG ",
+      "nonce": "4jXcmJFlQm7XQoJJBAWgzw==",
+      "ciphertext": "PJ8UFw6c1NzxIxNxmI+zXaqaRgmr9ZGSs6MTWVGWaawa+lYRAvTWMdiOtHKvsibFlxZqzPnW7dzgR1JtRFQ4qMSqJLZbgvaIIDnojdQmZN8="
+    }
+  ],
   "key_reveal": null
 }
