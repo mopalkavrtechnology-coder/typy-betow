@@ -3,6 +3,13 @@
   "team1_name": "Maroko",
   "team2_name": "Haiti",
   "start_time": "2026-06-25T00:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-24T00:00:55",
+      "user": "NzG ",
+      "nonce": "oiRcdJyFDSoIBqQitvKH6w==",
+      "ciphertext": "Oqnf9Olo1MFn8ZlG6YcSRzHPEdFVmYmmYkvymVu9iulJYZq2cGefdGQV/2rNzKjizOegjGYPqy0CW3+as5Z6Sf4i0MDjL886CsonyITXVCg="
+    }
+  ],
   "key_reveal": null
 }
