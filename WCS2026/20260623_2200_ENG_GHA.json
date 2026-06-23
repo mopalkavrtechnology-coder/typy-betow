@@ -33,6 +33,12 @@
       "user": "Sikor",
       "nonce": "rYC8ijPnAGKcm2zTZb4Lvg==",
       "ciphertext": "zmosm59ShIvolcOl+mKVHSxBM2TI4fdOb0HPP5qvSO56c/jfTF/PQv2Rkv1CsU52jNP4+szGkuHliF0frpPxHauSfqihKNAjVjdxJwvpRR8="
+    },
+    {
+      "ts": "2026-06-23T12:43:13",
+      "user": "Ziggy",
+      "nonce": "DnP06nB6OqDcHG/nqd5vGw==",
+      "ciphertext": "y9lWS/d/9QSeUoJGZiIm2SQ1NRCMkG3J8bKsVZDD/yohXoTwY4uyp5C/jU8VAn4VMPIQTD3fTyLCdweRAMK/x8GBm1/A2bjflKRllmb99BE="
     }
   ],
   "key_reveal": null
