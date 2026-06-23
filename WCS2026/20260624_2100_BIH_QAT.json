@@ -3,6 +3,13 @@
   "team1_name": "Bośnia i Hercegowina",
   "team2_name": "Katar",
   "start_time": "2026-06-24T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-23T21:49:14",
+      "user": "Ziggy",
+      "nonce": "SVpsPr3YaYxZH+UNOSC4+w==",
+      "ciphertext": "CoVnRECO7iZo5vos6CBJH7HLAK29gYpYbg8c6PEO69kUDaWXODINXDUuolbwJXkYVQYubWmtBOql/bK9xCtRVIlcw1wOyGO2Q1usrNFSg6k="
+    }
+  ],
   "key_reveal": null
 }
