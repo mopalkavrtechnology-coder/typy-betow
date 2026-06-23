@@ -3,6 +3,13 @@
   "team1_name": "Szkocja",
   "team2_name": "Brazylia",
   "start_time": "2026-06-25T00:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-24T00:01:00",
+      "user": "NzG ",
+      "nonce": "zeewkX8nJ1ztCamdZDek6A==",
+      "ciphertext": "o4BlGD+Clemm8kRa5HHH21GmoUZak+BFVqsTPIYONLDAuHxSujdODgaGIt7mmuA5e5EO70mhUyStjt0zV+jtJu6PTCuCurx8pVHeFKr52dg="
+    }
+  ],
   "key_reveal": null
 }
