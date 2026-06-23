@@ -3,6 +3,13 @@
   "team1_name": "Anglia",
   "team2_name": "Ghana",
   "start_time": "2026-06-23T22:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-23T06:31:32",
+      "user": "NzG ",
+      "nonce": "GRhZX/mkhSrTuGF1V1r/VQ==",
+      "ciphertext": "ckMc6hntVOQbQwHwCMHQ5makFDcSLKHO5wVFEQUKY1kc7UKSBG382iuI75GRE5lHAjXRffUIwePjqxRxQnzigUnfQwNtePEJVpcDWTAEP1U="
+    }
+  ],
   "key_reveal": null
 }
