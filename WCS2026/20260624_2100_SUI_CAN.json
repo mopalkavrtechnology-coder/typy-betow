@@ -3,6 +3,13 @@
   "team1_name": "Szwajcaria",
   "team2_name": "Kanada",
   "start_time": "2026-06-24T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-23T21:49:21",
+      "user": "Ziggy",
+      "nonce": "zJuMc4D0M4+ZAwO3a1N8VQ==",
+      "ciphertext": "MyYV04CFF7SEr3j6n43/QF1j+oC9HCijlaJ8NZ/pj5Ie+xGOO6CMAfkKMjJqHEU1JbViYsb+aKAS4asNlt4OykznKoGDE0C+1KeueiSMwHg="
+    }
+  ],
   "key_reveal": null
 }
