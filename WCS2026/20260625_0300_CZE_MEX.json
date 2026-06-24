@@ -3,6 +3,13 @@
   "team1_name": "Czechy",
   "team2_name": "Meksyk",
   "start_time": "2026-06-25T03:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-24T09:20:29",
+      "user": "Ignadzy",
+      "nonce": "RxE2p6tr5QA2BSQo8eGBGw==",
+      "ciphertext": "gz2ZskjnZDLQSvac0PN9F4mO3lqmKJ3+uTyv0Vu1wh3QIqni7V9PVIjAj1eQYLkb7MvK7EBn0fWFWFTmVRGkiFqKMiihclhze03brIWmGss="
+    }
+  ],
   "key_reveal": null
 }
