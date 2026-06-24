@@ -3,6 +3,13 @@
   "team1_name": "RPA",
   "team2_name": "Korea Południowa",
   "start_time": "2026-06-25T03:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-24T09:20:38",
+      "user": "Ignadzy",
+      "nonce": "9nSFirwRVYNy/Tvex9GwLg==",
+      "ciphertext": "WSFMXjAn6V5lW/iE2lJGHudqVak4heOvqBbWDzPKeSS/iAb4sESA6dWkMNiQ8Z8NWeynu28UB2ds9XGbW5nFLPmxX4yz2bQlZuPnbE2AAlc="
+    }
+  ],
   "key_reveal": null
 }
