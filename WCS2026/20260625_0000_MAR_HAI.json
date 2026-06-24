@@ -15,6 +15,12 @@
       "user": "Misiek",
       "nonce": "Bo2DLTT+lO3bEfaIOksBww==",
       "ciphertext": "/LFfPSgYFjfrsIfuF9fCqQi5yLLJHcycJqsKx+QLwCHaNTWEP4+jqeT7+qiFnTZvYB28vDN0xlevgj8qRibvNJMe841+spKaqz+/d2z4WhM="
+    },
+    {
+      "ts": "2026-06-24T07:29:24",
+      "user": "Ignadzy",
+      "nonce": "wOTJ0aIWOZhkORCkYsdEtQ==",
+      "ciphertext": "bFcN4IbTkLDmvfdE/pWPfrobJbMjUEU9sKSSVHdB1n8CPwM0ke1+9uOK4sLRDRTaEpJx1xraSyIsO2qMj8HZsJ6oiXPJ9TfAMSs2yPHOBik="
     }
   ],
   "key_reveal": null
