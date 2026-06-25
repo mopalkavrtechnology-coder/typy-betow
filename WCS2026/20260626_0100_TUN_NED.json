@@ -3,6 +3,13 @@
   "team1_name": "Tunezja",
   "team2_name": "Holandia",
   "start_time": "2026-06-26T01:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-25T02:04:30",
+      "user": "Misiek",
+      "nonce": "9O/zZbL33OvwynzDx4uYfQ==",
+      "ciphertext": "wqlPOim9HYsE2di8MzXYzdkjyaKOigpFW8PHaX5j1mLw0u3v8DE3DtCidJ0raSAdjI2u9sGMMPp9sRtfUsV4XuisikjVl7ZVIETgHhW94Lg="
+    }
+  ],
   "key_reveal": null
 }
