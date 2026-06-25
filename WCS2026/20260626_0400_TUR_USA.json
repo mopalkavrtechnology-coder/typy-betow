@@ -3,6 +3,13 @@
   "team1_name": "Turcja",
   "team2_name": "USA",
   "start_time": "2026-06-26T04:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-25T05:33:50",
+      "user": "NzG ",
+      "nonce": "w/GCaHniUk8Hqq5AvQM53Q==",
+      "ciphertext": "Xe9Z5s14gJzfoeYdyIqV1jvRLCVfF4ZS5XinDKJnbm0m67yCD3VP17ecSmdEzcMEfh5soDEqmHAn1olgN+JwPFNEXbJvI7zhCxOP5zxiubg="
+    }
+  ],
   "key_reveal": null
 }
