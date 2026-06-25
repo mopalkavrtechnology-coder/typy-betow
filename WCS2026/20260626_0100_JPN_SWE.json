@@ -3,6 +3,13 @@
   "team1_name": "Japonia",
   "team2_name": "Szwecja",
   "start_time": "2026-06-26T01:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-25T02:03:51",
+      "user": "Misiek",
+      "nonce": "nwfOzBNLnW68Stjtkkb7nA==",
+      "ciphertext": "3htJe7WY0ifbhxyPdUfnV49Rnpj45LG5lB/76DT4614uMC5w8jm0Z8CFJbYxDU5OiUima+y1M3ZZ7NSUZYfqDwf2aVfnNLV45vDHQOIHU2I="
+    }
+  ],
   "key_reveal": null
 }
