@@ -3,6 +3,13 @@
   "team1_name": "Senegal",
   "team2_name": "Irak",
   "start_time": "2026-06-26T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-25T22:04:21",
+      "user": "NzG ",
+      "nonce": "817t4zjz1ZgP8GphYtxC/w==",
+      "ciphertext": "pLQOitCqZApOcp6MMm2GjKG+q7D+hv3567feDIDlbINIqN3J5hykhrLMwKolXkI6VVBid7UA5Z0fYtivvhKJfKNg6FxMNqQD39mCDaZXZGY="
+    }
+  ],
   "key_reveal": null
 }
