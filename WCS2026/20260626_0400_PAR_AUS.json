@@ -3,6 +3,13 @@
   "team1_name": "Paragwaj",
   "team2_name": "Australia",
   "start_time": "2026-06-26T04:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-25T05:33:41",
+      "user": "NzG ",
+      "nonce": "AgcflorhZyoPhGjYpRSFRA==",
+      "ciphertext": "Jjin2hvtjRrvRsYkdQ3Dg9ZAElnhIwsVEzhhmhpUh4VkvMXgfqgyc+3KsTiwtpbhCzxkWnADng6+SX9F8cPQcUgBltyChWvir8tnqTjvW30="
+    }
+  ],
   "key_reveal": null
 }
