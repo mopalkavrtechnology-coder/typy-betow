@@ -71,5 +71,9 @@
       "ciphertext": "jPyv+mzB5bIP7dqIWZsGMQ9d4mCu+HeAiy8QSJ5Mo5y87tOhN4UhT5fszvb+yuzNljj7/XWiegRG/fEgYflJoNEbTpg+2TpSnvEJCfRXXBo="
     }
   ],
-  "key_reveal": null
+  "key_reveal": {
+    "ts": "2026-06-26T01:00:15.492562",
+    "event": "KEY_REVEAL",
+    "key": "fxPN9Z7r6Rs/U9WG3//aqBLnvJqk3h8DQJeCdy1+9LM="
+  }
 }
