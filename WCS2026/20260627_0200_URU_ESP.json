@@ -3,6 +3,13 @@
   "team1_name": "Urugwaj",
   "team2_name": "Hiszpania",
   "start_time": "2026-06-27T02:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-26T03:28:35",
+      "user": "Misiek",
+      "nonce": "/Lv975voW2o8fVv+KxTztw==",
+      "ciphertext": "8JdtChDXvBzfAijAVh2WNoId8AFA84mCkgmWdvCHXMk+mgxP9J1ncSDdPC9BY0IYfdFrfRxFHhI2qP61AFnwuvD53G5LAW4V8EcTfdMVVKA="
+    }
+  ],
   "key_reveal": null
 }
