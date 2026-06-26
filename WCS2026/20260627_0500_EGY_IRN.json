@@ -3,6 +3,13 @@
   "team1_name": "Egipt",
   "team2_name": "Iran",
   "start_time": "2026-06-27T05:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-26T06:06:37",
+      "user": "Misiek",
+      "nonce": "Erq1utLJc9bo0TVSSClMkQ==",
+      "ciphertext": "gZRpOQ4xEfMOo6LNX1b+CovYf87+hAllkQv3FQ+hcWkoJDVVD3rw+WM67ETUlcIfRrjfLGg4Y0TCkDLokFXsukZ6A62Y+xSPS8t0secnLr4="
+    }
+  ],
   "key_reveal": null
 }
