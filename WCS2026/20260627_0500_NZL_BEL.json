@@ -3,6 +3,13 @@
   "team1_name": "Nowa Zelandia",
   "team2_name": "Belgia",
   "start_time": "2026-06-27T05:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-26T06:07:24",
+      "user": "Misiek",
+      "nonce": "yYXaGfhBv+zPDqdl0CdkEw==",
+      "ciphertext": "4wrylVAyOnhXnBSygb1aTYrji9WRlscIwbzgcb1iLUWlBDF03Scz9alzeuVwN6e8isJI4a8JPaYTV1lTotstoIJlySDpCOl53Pxy4oL/ga0="
+    }
+  ],
   "key_reveal": null
 }
