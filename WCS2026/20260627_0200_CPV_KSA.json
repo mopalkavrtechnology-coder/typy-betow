@@ -9,6 +9,12 @@
       "user": "Misiek",
       "nonce": "poFTkGAIaJkbXZMJTA1wpg==",
       "ciphertext": "bZ22IvPnrQAsHy/Rr5rSIBPivqCs/EMxWXsbDMUusZztc9XQNuOgyyAwJmO533SSlpATc2MY7kQNZqEjEeBc15PkZAZAI7FNff654GchDcw="
+    },
+    {
+      "ts": "2026-06-26T06:20:33",
+      "user": "Ignadzy",
+      "nonce": "jWmvUZqzsqLukvMwXzTnTg==",
+      "ciphertext": "TZiyzMs7CiYRQEdvIPOeRQ5UKc1dLrfc4Zi6OqLpDibkvgutc7559mWP1Jog7oOijLljssuxV+OQoMxCbj2o060USC6KnNHEd15fvQiJUN8="
     }
   ],
   "key_reveal": null
