@@ -3,6 +3,13 @@
   "team1_name": "Panama",
   "team2_name": "Anglia",
   "start_time": "2026-06-27T23:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-27T07:26:54",
+      "user": "Misiek",
+      "nonce": "RuvVVTdCIC4TN2AKpakEHw==",
+      "ciphertext": "d8/BLdjVS+sGmLP+9kvZR2YjOxOE/ki+a8QyeY5K5CAoDkCkbThxtqM863TZ75LWqHCGbsFObeIkx9psiyssazjEgVNFU6s1X+AwyU76mOo="
+    }
+  ],
   "key_reveal": null
 }
