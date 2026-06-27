@@ -3,6 +3,13 @@
   "team1_name": "DR Konga",
   "team2_name": "Uzbekistan",
   "start_time": "2026-06-28T01:30:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-27T07:30:13",
+      "user": "Misiek",
+      "nonce": "gnDTJ7xqAXGqnubJ/CZ1ug==",
+      "ciphertext": "bB4HbncoOymogYRpXT6GSdXEYBYPf33Pt84kax+9SULgeRpkqG90++hlC6HNJaeYvRklKZAjYX7TAj+fb686PobZ6PofutZ8kpaYUJHe6r0="
+    }
+  ],
   "key_reveal": null
 }
