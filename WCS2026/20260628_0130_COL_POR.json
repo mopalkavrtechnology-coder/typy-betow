@@ -3,6 +3,13 @@
   "team1_name": "Kolumbia",
   "team2_name": "Portugalia",
   "start_time": "2026-06-28T01:30:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-27T07:29:42",
+      "user": "Misiek",
+      "nonce": "H2kdCbUgcsSpxcHUHUHfag==",
+      "ciphertext": "4CrXjMAoPmzDgGbmhCHZ5nfIA3gxTjvSzwvydoNN6ao4TcAfo/BhOTL8HJwZtNpPKPLSh0RLJvfN+v++1OJi4kHotf2Y5tgwldDcWRGEWjw="
+    }
+  ],
   "key_reveal": null
 }
