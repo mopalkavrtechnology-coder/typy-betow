@@ -3,6 +3,13 @@
   "team1_name": "Chorwacja",
   "team2_name": "Ghana",
   "start_time": "2026-06-27T23:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-27T07:26:23",
+      "user": "Misiek",
+      "nonce": "4oMXlmihqH41zHp0doynWQ==",
+      "ciphertext": "r296rIPDhqKf0i4cmW3dTNn8WsrC71gxC/QYSJ0YdzWJlR+EP9I8z+gb1Cgt+IpD7bbeotqotDYrWPkRj+x4tWGPH4/bY05ExMzdawZgcwM="
+    }
+  ],
   "key_reveal": null
 }
