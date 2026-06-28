@@ -3,6 +3,13 @@
   "team1_name": "Niemcy",
   "team2_name": "Paragwaj",
   "start_time": "2026-06-29T22:30:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-28T23:00:44",
+      "user": "NzG ",
+      "nonce": "7DG51zIEQ3c5Un657JE9DQ==",
+      "ciphertext": "ww/YERlpY4GwANproUg+3llnict3NDHQ7j1EihmvpxFzRIjlhY/4FfX+VPoqXFXk6Gl10gKAzfhpSaoe1j4i2H888AC0f95hOzZWkc4Dujw="
+    }
+  ],
   "key_reveal": null
 }
