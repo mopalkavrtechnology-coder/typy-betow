@@ -3,6 +3,13 @@
   "team1_name": "Holandia",
   "team2_name": "Maroko",
   "start_time": "2026-06-30T03:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-29T07:03:15",
+      "user": "Ignadzy",
+      "nonce": "vTjjny7/afvznFth0P0XYA==",
+      "ciphertext": "G4ltV9ne3Gjxs+AHhxQuXzZsFOZ++L5e2bw0SsxSfSHwpty9620I4FG8LrhKIJTQ8djJzUyicbfzr+h1Kwm81dxzF0lup1dMC2KojqsJbjQ="
+    }
+  ],
   "key_reveal": null
 }
