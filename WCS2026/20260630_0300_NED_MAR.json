@@ -51,6 +51,12 @@
       "user": "Misiek",
       "nonce": "Crt1lVFt7quWZ8tDD9iHPQ==",
       "ciphertext": "qaRQUnvuYdVs5bdWPCll7Wo0piKz2npurlHotjmZYuNat+GlViMB/yypvNlZpiqIPnFTmpdABlBijc60I+EWLyxDppw6LW6ZW3twoX75D68="
+    },
+    {
+      "ts": "2026-06-29T22:28:55",
+      "user": "fizuu",
+      "nonce": "HcijD/O2Kllq4b7Tu8qwdA==",
+      "ciphertext": "CAcjfwLDre8M0zZ9ubxocAn+vagcVW0Sn/WXFChUTa7lcr3spGP1N+BlkpY2b4dkupj7+jE8VboMZ1Qs7NVGNHRDZUQ255nCkZRJU74pMow="
     }
   ],
   "key_reveal": null
