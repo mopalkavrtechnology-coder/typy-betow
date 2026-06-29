@@ -3,6 +3,13 @@
   "team1_name": "Wybrzeże Kości Słoniowej",
   "team2_name": "Norwegia",
   "start_time": "2026-06-30T19:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-29T19:53:36",
+      "user": "Misiek",
+      "nonce": "+Tm07k6CM+KrdsKUEuIJyA==",
+      "ciphertext": "iZepYN2B3t4A0hKmbXNCc5IHxeWh3JANNrT2gPzH3gNZ96rrMFbX8oMVjGCbpbDL9jshFTiJWdV31ZdN23yASSetcC97brrIHBCcmmfXEX4="
+    }
+  ],
   "key_reveal": null
 }
