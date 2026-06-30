@@ -3,6 +3,13 @@
   "team1_name": "Meksyk",
   "team2_name": "Ekwador",
   "start_time": "2026-07-01T03:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-30T06:16:25",
+      "user": "Ignadzy",
+      "nonce": "0kSFBph3MLLEzB/U7u+Pbw==",
+      "ciphertext": "SelBrk799ge+DK+ATI1PLl4toZ10Rcj/ATHBsMQ38R0fTjroh4VJpAMz5CAJ69u24fYm4EEg2CK/oF08l86arVSHdsEPEF4LZtH7uD/tf9g="
+    }
+  ],
   "key_reveal": null
 }
