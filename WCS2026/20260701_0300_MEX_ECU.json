@@ -63,6 +63,12 @@
       "user": "fizuu",
       "nonce": "Dxq09C4jQDUvP45y/wy7yg==",
       "ciphertext": "a/OFgiAx6SluJ2jOqlpdWiR+IjcNha9REsDoVNz4v9wTZBjSUePwG0PEAsuuI6qrSl58OMgiL1+qDWGrySV/UqWBzeP3aSdqPAAz6zkfF9c="
+    },
+    {
+      "ts": "2026-06-30T21:44:33",
+      "user": "Ziggy",
+      "nonce": "erSf9e8nZUzurYe6ssSJyw==",
+      "ciphertext": "JFXjMJbdn6ObE0mspIJZDoLUlg2+tCljfOQqmjUaWqyATgsL2D9iMOf5aFuD3wC7AjhXTV+FXNDCyPpz8lpFHbl5Y6RaSn6Tmv2PyvBilX0="
     }
   ],
   "key_reveal": null
