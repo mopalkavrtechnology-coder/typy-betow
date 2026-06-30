@@ -3,6 +3,13 @@
   "team1_name": "Anglia",
   "team2_name": "DR Konga",
   "start_time": "2026-07-01T18:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-06-30T20:20:43",
+      "user": "Misiek",
+      "nonce": "vmYkr1cNgdL6BUIsyEWFLA==",
+      "ciphertext": "ktLh3KfUQCp1QLZC/wsuOsP05NH/rgZJRfedcthSOl5S40DHutc7Q6HIWoKJQrm5xzXhTNNLUcZ66Q4iZOFi9IZoE67wLaTcvXHdjzPCa0o="
+    }
+  ],
   "key_reveal": null
 }
