@@ -3,6 +3,13 @@
   "team1_name": "Hiszpania",
   "team2_name": "Austria",
   "start_time": "2026-07-02T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-01T21:19:26",
+      "user": "Ignadzy",
+      "nonce": "DCijzN4ioSyZ9X4XDcPw/Q==",
+      "ciphertext": "SYl1n6YzoIrESwJU47yXt4Pj3zL6ZlpVD8rukCE4kOeDWTqhVpqBWo6PD55uqnsgEZK8JwkE/nPa2I7HuhhOS++Mdrx81MzlFFRG7tTg7fY="
+    }
+  ],
   "key_reveal": null
 }
