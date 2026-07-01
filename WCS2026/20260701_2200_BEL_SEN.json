@@ -3,6 +3,13 @@
   "team1_name": "Belgia",
   "team2_name": "Senegal",
   "start_time": "2026-07-01T22:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-01T04:38:58",
+      "user": "Misiek",
+      "nonce": "HViuciN7dh8rv1rklApDYA==",
+      "ciphertext": "KRdZsJmk/1+o4VYjk98Xv2SDwDAc9MxraahePcgqZrGRhlDOC/5kK3V4k2QAWFBpERd67A+xtQAXsnVyeooOAUdSC1zymh3onyj4uSsBoR0="
+    }
+  ],
   "key_reveal": null
 }
