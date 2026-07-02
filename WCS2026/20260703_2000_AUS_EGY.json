@@ -3,6 +3,13 @@
   "team1_name": "Australia",
   "team2_name": "Egipt",
   "start_time": "2026-07-03T20:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-02T20:57:29",
+      "user": "funy1",
+      "nonce": "MTh0Tk8MDwu++m+sCbQJkw==",
+      "ciphertext": "+5fF/G1q0h4FuLPlge60duxRRTPIjediQUHpUq3hJKE7DnaJToTESJ7UpWo0cDmpNEgBkt4AbrTwNM/hA04pYNtMt470FR1dxqvAJCerauU="
+    }
+  ],
   "key_reveal": null
 }
