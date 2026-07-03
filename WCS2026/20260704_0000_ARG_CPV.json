@@ -27,6 +27,12 @@
       "user": "Chudy byk",
       "nonce": "3t6tl3ozLTuV9IZEDlnNeQ==",
       "ciphertext": "e79XcmvRnCVXqGa26t+VmVcnUmvpvah8N+TjRc1fDH7+HCwJQwmML8Ya89HPadz/mCMrhfz82NG8RD70++ckh0B4adFpL5vvbJkmxgaTi5c="
+    },
+    {
+      "ts": "2026-07-03T11:53:39",
+      "user": "ersi",
+      "nonce": "fwl9qHrW2Z9iQDVSyI8pWQ==",
+      "ciphertext": "+zN1Cx0WSRxzcJLjdrWhLhYDY8dxxU1GxSBbHj2TRl7iwkE9aTK5x+BTRUDo7AaC5CIrgh7Pj0fLqkkHefvUn9odP/kFMjY/Six9OACH4ss="
     }
   ],
   "key_reveal": null
