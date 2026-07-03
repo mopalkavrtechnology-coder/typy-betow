@@ -3,6 +3,13 @@
   "team1_name": "Kolumbia",
   "team2_name": "Ghana",
   "start_time": "2026-07-04T03:30:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-03T06:37:53",
+      "user": "NzG ",
+      "nonce": "J2qaxNA9WepTpcxPQRfvNA==",
+      "ciphertext": "13xau0HZNCkAom9RZyVYj8Eul+BtGIyaZHhDk5zsuezbcvhOC1dAsT+LbjuTiGLZZyquZN8nhK6I7Y1pSQp6NsX3XjGxO1GBuYzu6ZUMZYA="
+    }
+  ],
   "key_reveal": null
 }
