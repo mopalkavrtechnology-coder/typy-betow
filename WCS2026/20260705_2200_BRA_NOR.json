@@ -3,6 +3,13 @@
   "team1_name": "Brazylia",
   "team2_name": "Norwegia",
   "start_time": "2026-07-05T22:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-04T23:13:34",
+      "user": "Misiek",
+      "nonce": "/zKilcK9qa68jgYvYiaVAA==",
+      "ciphertext": "LLizocNx2RMEZe838RNgz18C7GzZC3FiEBY+K+3Tn/0wG89k8DStTLMhsUMh/pij2C4nJxWKqe9OtCn6b2/NqVWVl2MolYFXuD//z2FdN4A="
+    }
+  ],
   "key_reveal": null
 }
