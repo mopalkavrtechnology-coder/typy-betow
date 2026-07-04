@@ -3,6 +3,13 @@
   "team1_name": "Paragwaj",
   "team2_name": "Francja",
   "start_time": "2026-07-04T23:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-04T10:44:17",
+      "user": "Chudy byk",
+      "nonce": "yRFfQgBN43iVRHn1Druxkg==",
+      "ciphertext": "TOI9I/t4RKmHrLHSGVP7XVMtaNsNWTTqKMUXnC+vDti7ZFWQJn+bg0D3Q4DIO277rDym5w9I75R03aucPSyp+WjEGsH02EUVjw/hhGYz/xc="
+    }
+  ],
   "key_reveal": null
 }
