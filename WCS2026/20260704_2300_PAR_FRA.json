@@ -45,6 +45,12 @@
       "user": "Sikor",
       "nonce": "NQ9fgdBvva6Ous7qQ5yVug==",
       "ciphertext": "AsIh0PK49CRiY3W3+et8EeHozdbsXdBxgKfSTp3l0vxUeAXpH4c/pv5KUt2bkGWklRO2xC+0ijben7y3NQsBZYvT9kaWgGw1Ak0ZkpyRgOg="
+    },
+    {
+      "ts": "2026-07-04T19:17:56",
+      "user": "Ziggy",
+      "nonce": "YcRIV6o2RV9Vh0LCdJe6Yg==",
+      "ciphertext": "KIZ4vSNObXv4hBWZCtZlOCtjJZcwSyX8ZfL5a/2BH1QWPebNK6WqdeLdbIMJtco8lHhuO3KHjc4k33CHbnMOGl/53a8DIENUnySPEDP89mI="
     }
   ],
   "key_reveal": null
