@@ -21,6 +21,12 @@
       "user": "ersi",
       "nonce": "XxFtieRDIb9fFfSubbedWQ==",
       "ciphertext": "lMWsSlE6fBgrgw/Ai7vN/O8CuE2m8cQVyYpWm5ap3UgLHNtgq3nRF9I2aSMEkSZs4oYLGty/qoNNtL/gYPK5kjba6JdwTi11yGCiy1kFh64="
+    },
+    {
+      "ts": "2026-07-04T11:00:18",
+      "user": "Szakal",
+      "nonce": "Ytl1VQZfFF3ZBzTQqdATeA==",
+      "ciphertext": "BAkfnpGBKGTgyF78jUBxDPtgrgmBjjSThJIhqdvv/DdX34k+Dzz3Fc2c6QP1t/9ECuyt3Cx+RItwvUbPqblNMd6Fxiv+XI3Xw4rdybWvqM8="
     }
   ],
   "key_reveal": null
