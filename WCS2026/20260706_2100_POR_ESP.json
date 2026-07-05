@@ -3,6 +3,13 @@
   "team1_name": "Portugalia",
   "team2_name": "Hiszpania",
   "start_time": "2026-07-06T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-05T21:09:09",
+      "user": "Sikor",
+      "nonce": "3/gIO7+/fjCOcJ5k4TYl1Q==",
+      "ciphertext": "6qJ5Jal7XPfLM7FTzUTvS93xJl0znYEgcZ80dC752quJG2fWvquHCoBv2L28CdhQ/URmwuzJEPWND4+d3UThjtehuqmKZIQH3WGi54XYjrc="
+    }
+  ],
   "key_reveal": null
 }
