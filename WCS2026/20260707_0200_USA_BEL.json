@@ -3,6 +3,13 @@
   "team1_name": "USA",
   "team2_name": "Belgia",
   "start_time": "2026-07-07T02:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-06T10:51:20",
+      "user": "Ignadzy",
+      "nonce": "/PkyPbOvCbGxurB+RlthPQ==",
+      "ciphertext": "AofWb6v2jtda7qcFaySuwE4ECWvw8vGMha5FO/NeYX1kiwr6oxmo/wj/HNW10TIy2SE5zXasq7rKJpTWggZjkzSrAEFvbuFUNR7Lm5hwvmg="
+    }
+  ],
   "key_reveal": null
 }
