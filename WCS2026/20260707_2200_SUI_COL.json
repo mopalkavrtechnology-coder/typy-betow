@@ -3,6 +3,13 @@
   "team1_name": "Szwajcaria",
   "team2_name": "Kolumbia",
   "start_time": "2026-07-07T22:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-07T00:14:24",
+      "user": "Ignadzy",
+      "nonce": "RWX2FKQ4jo80ruFGW16f7Q==",
+      "ciphertext": "etIDznwIOUnzylrikBEa8lPTX2Axa2DNElScgwn85MLN+CoUakxNdF3JKHTJjda4kucoFDG61XQMto17sPcp6u8RVkyEz4W80JkRUzQ2Xkc="
+    }
+  ],
   "key_reveal": null
 }
