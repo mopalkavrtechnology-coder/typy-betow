@@ -3,6 +3,13 @@
   "team1_name": "Argentyna",
   "team2_name": "Egipt",
   "start_time": "2026-07-07T18:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-06T20:12:04",
+      "user": "Misiek",
+      "nonce": "9yQ6gTxHg5jPinBa3BzFNQ==",
+      "ciphertext": "lpbjdh5V1eS2g8h0HHxpJaqjdLoSOkyE4+FvKcSr9dlbw8/GILveTXphZlR+KF2F8c2//ptduOtrDh1eTxfhxut5yQ6kl368uVB1t5p1xIo="
+    }
+  ],
   "key_reveal": null
 }
