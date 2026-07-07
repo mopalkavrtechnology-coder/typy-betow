@@ -45,6 +45,12 @@
       "user": "fizuu",
       "nonce": "NXm8G2yrrD7kQh2AdZfbRg==",
       "ciphertext": "+St6HOh6r/ABGP5F1HiwX6O/0zqAvqYgeJBlcU4VUCvBUVTLSh06GtH8hLAq5NVdei1Un9sOb/05kFjzcV+QEbARYIhJ+I+9ForXh2kdPdo="
+    },
+    {
+      "ts": "2026-07-07T14:07:55",
+      "user": "Szakal",
+      "nonce": "lPH9qH7rImkE5qfjbmFSsw==",
+      "ciphertext": "HXDvH+4MHi4jAQ0pfZEMKouaDnxcTHfh7PJzqwckh2vBiU5pTSzfvmT3AkKSPk31wG3MUL7IjlEe6h8LtmlyWqCtajNZY2zULv0vg7MmjyU="
     }
   ],
   "key_reveal": null
