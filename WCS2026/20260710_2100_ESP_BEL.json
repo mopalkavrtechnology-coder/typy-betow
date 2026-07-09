@@ -3,6 +3,13 @@
   "team1_name": "Hiszpania",
   "team2_name": "Belgia",
   "start_time": "2026-07-10T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-09T23:31:13",
+      "user": "Ignadzy",
+      "nonce": "khBsrbvCWjREJ60+C5fu7Q==",
+      "ciphertext": "2GdYpyJs978jIWgdQvT4wx3nJGoJ9xZclV/RXV3eB8ZbGz1jSw4y1xWeB3moGq3WhAmA9hwBsa/zN6xaqcvdRGMkaNv+JEjDHl/ix9KTVEM="
+    }
+  ],
   "key_reveal": null
 }
