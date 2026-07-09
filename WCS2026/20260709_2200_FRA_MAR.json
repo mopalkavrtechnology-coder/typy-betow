@@ -89,5 +89,9 @@
       "ciphertext": "g9HR5wCddxj7Kx1FbQmu8hZvVbkw96RAhVZdErjzoW+3qWYr3YegtwMopw+uSTPT0ybM7rfLKbyIdJ9OOzjf3CQEJgYwdf3+L/OcX4PGPm0="
     }
   ],
-  "key_reveal": null
+  "key_reveal": {
+    "ts": "2026-07-09T22:00:10.804245",
+    "event": "KEY_REVEAL",
+    "key": "umvP+4DB1gar6UJZqwrbgDtJ+KdPsi4AoD24UEQC338="
+  }
 }
