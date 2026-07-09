@@ -3,6 +3,13 @@
   "team1_name": "Francja",
   "team2_name": "Maroko",
   "start_time": "2026-07-09T22:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-09T07:32:14",
+      "user": "Chudy byk",
+      "nonce": "btM+LmgKg5HLAnKriGH7AA==",
+      "ciphertext": "Ru2e7MJ92kHeR+rdHSNIupO1EZ+e/VV26ZcnB8rIZaFatoKfIeaXRG0Ncgfr4EqbmJpXfn3bNlaXXMfYoEHYJ9ssReOXfClRdCFhATiyM0A="
+    }
+  ],
   "key_reveal": null
 }
