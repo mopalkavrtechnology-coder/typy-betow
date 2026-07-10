@@ -77,5 +77,9 @@
       "ciphertext": "bch0XjQ/4bl4VDGMYba1a2w0QJmRJtQlN8HdrMfM1FcIphBM6dKeYoRxUVNXy+Mrm1qMQlpYSZbeeQQ4l0Zi5nplmnNKmX3Teuod1Ydc/wc="
     }
   ],
-  "key_reveal": null
+  "key_reveal": {
+    "ts": "2026-07-10T21:00:17.707722",
+    "event": "KEY_REVEAL",
+    "key": "xgsT6/wuPzRQivcsfIYblE71ZFkamMkgURPO9WK8B7w="
+  }
 }
