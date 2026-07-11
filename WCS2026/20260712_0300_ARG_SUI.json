@@ -3,6 +3,13 @@
   "team1_name": "Argentyna",
   "team2_name": "Szwajcaria",
   "start_time": "2026-07-12T03:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-11T08:08:38",
+      "user": "Ziggy",
+      "nonce": "pkIjOhhSUhf6LAkUnx/jHQ==",
+      "ciphertext": "wT2apf3dEY/hZcaGWXyBbM139hMN3J9TkObqRKHQ1kwvdDddFbZO4owSCimiyvAwY0hynFUi9dOpfvuZS5FoxjN7TbwmDmQXQTndcNcTnRo="
+    }
+  ],
   "key_reveal": null
 }
