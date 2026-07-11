@@ -3,6 +3,13 @@
   "team1_name": "Norwegia",
   "team2_name": "Anglia",
   "start_time": "2026-07-11T23:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-11T02:47:15",
+      "user": "Misiek",
+      "nonce": "tLH9C8uRJIYwHybE4pbcrQ==",
+      "ciphertext": "aSyAIITp3GVsmjvrk9O8nxkKh70HvGzGu+sNalr7x5QPERcyp3Jfm8+7jKsrPPI7bjuxFyZCiWPMRGcsBVXZv5zlAJZsAwyh0B4fjuZzbkg="
+    }
+  ],
   "key_reveal": null
 }
