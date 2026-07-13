@@ -3,6 +3,13 @@
   "team1_name": "Francja",
   "team2_name": "Hiszpania",
   "start_time": "2026-07-14T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-13T23:16:27",
+      "user": "Misiek",
+      "nonce": "rxdn2IX2bZmZLLvsRGGBng==",
+      "ciphertext": "gbTPXj5Ly4s5WWl+T0MNV518b3NDrQuEXqrUpTkgX6n0eZ+2loeGGHYcnCtHrr0Srq37+Y5ChQgQl4hW0pvhNMzmczgua79c9/dCQN8/TFA="
+    }
+  ],
   "key_reveal": null
 }
