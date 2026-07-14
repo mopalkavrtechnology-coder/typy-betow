@@ -71,5 +71,9 @@
       "ciphertext": "U/eioNtwohrfVFf7ZXUUhaYAULavNrYolDMf1/lvOYMx9DlM++kxchQJR5XpJYwyQEms0hiYAj3NCJsZQa5uaCXi3DChAGTgVZxRZ7bC2jY="
     }
   ],
-  "key_reveal": null
+  "key_reveal": {
+    "ts": "2026-07-14T21:00:00.728436",
+    "event": "KEY_REVEAL",
+    "key": "vTblqtsHGjJpAF8PhlZJrDjVxAnoprzPBebML3Lcz+s="
+  }
 }
