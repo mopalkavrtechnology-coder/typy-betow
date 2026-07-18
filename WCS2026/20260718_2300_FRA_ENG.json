@@ -39,6 +39,12 @@
       "user": "admin",
       "nonce": "AxQ+4ucFQpS0hWygZ3gjHg==",
       "ciphertext": "IzxZVqAmmAlfb3HhZ7Xgl9SXMkxHom4o+ernl10R2b6FfKbSpRaTIC7fWHilZ3Mu07lpUDzfg8VzS9I2dLRSKDoWsFimu/Og80Op6OYKlI0="
+    },
+    {
+      "ts": "2026-07-18T22:15:50",
+      "user": "fizuu",
+      "nonce": "tVPrwiXRGFaC2wdojti+QA==",
+      "ciphertext": "0aL6UDJC2LafgW8fwH8/OAEecv6Iv9AqWcyftEVP6Y1Lc1mOPQokrUIUJzHWy2IL+ZQniiD+n3q66CklXCz6ukkl+FlZJTCiVPm9bjz95Bc="
     }
   ],
   "key_reveal": null
