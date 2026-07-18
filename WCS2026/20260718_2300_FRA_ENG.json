@@ -3,6 +3,13 @@
   "team1_name": "Francja",
   "team2_name": "Anglia",
   "start_time": "2026-07-18T23:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-18T09:25:47",
+      "user": "Chudy byk",
+      "nonce": "vQZNFX9bJzdaoYVIdhc25Q==",
+      "ciphertext": "w3ICK3LNt5ZvowYaX3Ou9YF3e2uFXOCJKl4PhcadNQ6wWw+6r4BiLB18p/hWLjHnfWxvvw4LZle2EKzndGHK4hlVjgyjKVXFJ/aazlZQjDE="
+    }
+  ],
   "key_reveal": null
 }
