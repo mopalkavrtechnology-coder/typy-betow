@@ -3,6 +3,13 @@
   "team1_name": "Hiszpania",
   "team2_name": "Argentyna",
   "start_time": "2026-07-19T21:00:00",
-  "entries": [],
+  "entries": [
+    {
+      "ts": "2026-07-18T09:25:52",
+      "user": "Chudy byk",
+      "nonce": "TdITGgwbvDs09OsWHiwcCA==",
+      "ciphertext": "xmt0bPCYp4IBttFlBeKGBb+nFT5rLPtCyQGYwJBUE+dG4TXhf3hE51YQCgxYpXKhquAGBaP7H50JBWIHQQhKLQyUuBN5yCVv6WLrs0VIyb0="
+    }
+  ],
   "key_reveal": null
 }
