@@ -33,6 +33,12 @@
       "user": "fizuu",
       "nonce": "kVfU3voqlvEPRMrxdMVYVQ==",
       "ciphertext": "uGYsRBq7aL4axiqpm3GiwuxBV2k1QB7FTKqrSnRkAQ91zQJCH7YooUxaRYaHwg/UgxuWR+G2AWjSULq1iM0s5pngBN9BVog1t8ZBK8sgiVE="
+    },
+    {
+      "ts": "2026-07-19T14:35:05",
+      "user": "admin",
+      "nonce": "CdUf6W3DYEbqa6nz+OSX6w==",
+      "ciphertext": "jdZRZM83PnLEDC+CinFsKxLjqehZNuFA1RLL2Ub1yZGAAhLZkYuB/42XVJ6y+Rl1C9cmkTBgQ+gnQJLBSTRV4E5m6WF9LVCGmBVqoPiysjc="
     }
   ],
   "key_reveal": null
